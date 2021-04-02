@@ -1,6 +1,6 @@
 ---
 layout: 'home'
-title: XITY Starter
+title: Home
 ---
 
 **XITY** (roman version of 11ty) is a basic starter blog/site built on top of Eleventy. You will find just some basic tools to start your project, no frameworks, no extra css and html, nothing to clean. **Just start from here**.
@@ -28,7 +28,6 @@ title: XITY Starter
 - <del>Posts pagination</del><ins><b>done</b></ins>
 - <del>Tags and tags collections</del><ins><b>done</b></ins>
 - <del>Service Worker</del><ins><b>done</b></ins>
-
 
 > <mark>Note</mark>
 > The design of this demo site is not polished to avoid bloating the starter with `css` code useless for your project.

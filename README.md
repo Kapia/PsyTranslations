@@ -1,7 +1,5 @@
 # TODO
 
-- logo, manifest, favicon
-- subir a github
 - github pages?
 - crear templates para las páginas / posts
 - Cambiar la config de xity.config
