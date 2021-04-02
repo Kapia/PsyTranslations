@@ -1,0 +1,24 @@
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+
+    {% include "header.njk" %}
+
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+
+    {% if title %}
+      {{ title }}
+    {% endif %}
+      </h1>
+      <p class="subtitle">
+
+    {{ content | safe }}
+      </p>
+    </div>
+
+
+  </section>
+
+{% endblock %}

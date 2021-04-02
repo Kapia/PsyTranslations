@@ -1,0 +1,109 @@
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+
+    {% include "header.njk" %}
+
+
+
+
+
+<section class="hero is-primary  is-medium is-bold" >
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Karol es Karol chu
+      </h1>
+      <h2 class="subtitle">
+         piu piu
+      </h2>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+ <h1 class="title">
+        Bulma
+      </h1>
+
+      <p class="subtitle">
+        Modern CSS framework based on <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">Flexbox</a>
+      </p>
+
+      <div class="field">
+        <div class="control">
+          <input class="input" type="text" placeholder="Input">
+        </div>
+      </div>
+
+      <div class="field">
+        <p class="control">
+          <span class="select">
+            <select>
+              <option>Select dropdown</option>
+            </select>
+          </span>
+        </p>
+      </div>
+
+      <div class="buttons">
+        <a class="button is-primary">Primary</a>
+        <a class="button is-link">Link</a>
+      </div>
+
+
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-4">
+          <div class="notification is-light is-link">Hi! <br />I recently launched this project focused on developers. I hope you will find it useful.</div>
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-fullwidth">
+              <img src="https://codedmails.com/images/banner-codedemails.png" alt="Coded Mails">
+            </figure>
+          </div>
+          <div class="card-content">
+            <p class="title is-4">Codedmails Free</p>
+            <p class="subtitle is-6"><a target="_blank" href="https://twitter.com/codedmails">@codedmails</a></p>
+
+            <div class="content">
+
+              <p>Ready to use <strong>60+ HTML email templates and themes </strong>for startups and developers for free.</p>
+            </div>
+
+          </div>
+          <footer class="card-footer">
+            <a href="https://codedmails.com" target="_blank" class="card-footer-item">Visit Codedmails</a>
+          </footer>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+
+    {% if title %}
+      {{ title }}
+    {% endif %}
+      </h1>
+      <p class="subtitle">
+
+    {{ content | safe }}
+      </p>
+    </div>
+
+
+  </section>
+
+{% endblock %}

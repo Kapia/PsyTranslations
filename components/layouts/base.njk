@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ config.lang }}" data-theme="auto" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ config.title }}" href="{{ config.url }}/feed.xml"/>
+    {% include "meta.njk" %}
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <!--link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@native-elements/core@1/native-elements.css"/-->
+    <link rel="stylesheet" href="../../css/mystyles.css"/>
+
+     {% block head %}{% endblock %}
+
+    <script src="https://cdn.jsdelivr.net/npm/what-input@5.2.6/dist/what-input.min.js" defer></script>
+    <script type="module" src="/js/app.js" defer></script>
+  </head>
+  <body>
+
+
+    {% block content %}{% endblock content %}
+
+
+
+
+
+
+
+
+
+
+    <script>
+      document.documentElement.dataset.theme = localStorage.getItem('theme') || 'auto';
+
+      {% if not env.IS_DEV %}
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/service-worker.js');
+          });
+        }
+      {% endif %}
+    </script>
+
+
+
+
+
+
+
+  </body>
+</html>
