@@ -16,7 +16,7 @@ module.exports = {
     [
       '@snowpack/plugin-run-script',
       {
-        cmd: 'postcss ./assets/css/app.css -o ./_output/css/index.css',
+        cmd: 'postcss ./assets/css/app.css -o ./build/css/index.css',
         watch: '$1 --watch',
       },
     ],
