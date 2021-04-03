@@ -11,7 +11,7 @@ module.exports = {
     '@snowpack/plugin-postcss',
     [
       '@snowpack/plugin-run-script',
-      { cmd: 'eleventy', watch: '$1 --watch --quiet' },
+      { cmd: 'eleventy --pathprefix=PsyTranslations', watch: '$1 --watch --quiet' },
     ],
     [
       '@snowpack/plugin-run-script',
