@@ -13,9 +13,9 @@
     
     <entry>
       <title>Simple blog post</title>
-      <link href="https://www.psytranslations.com//blog/simple-blog-post/"/>
+      <link href="https://www.psytranslations.com//PsyTranslations/blog/simple-blog-post/"/>
       <updated>2020-01-25T00:00:00Z</updated>
-      <id>https://www.psytranslations.com//blog/simple-blog-post/</id>
+      <id>https://www.psytranslations.com//PsyTranslations/blog/simple-blog-post/</id>
       <content type="html">
         <![CDATA[
       <p>This is a sample blog post to demonstrate how posts look with the Native Elements. All the content of this article is inside a Markdown file. <a href="https://www.11ty.dev/" title="Eleventy, a simpler static site generator">Eleventy</a> transforms that file into an HTML page.</p>
@@ -47,9 +47,9 @@
     
     <entry>
       <title>A post with embeds and images</title>
-      <link href="https://www.psytranslations.com//blog/post-with-embeds-and-images/"/>
+      <link href="https://www.psytranslations.com//PsyTranslations/blog/post-with-embeds-and-images/"/>
       <updated>2020-01-26T00:00:00Z</updated>
-      <id>https://www.psytranslations.com//blog/post-with-embeds-and-images/</id>
+      <id>https://www.psytranslations.com//PsyTranslations/blog/post-with-embeds-and-images/</id>
       <content type="html">
         <![CDATA[
       <p>This post contains <code>iframe</code> embedded elements, wrapped inside of a CSS class. That allows you to add custom styles to match the visual look of embeds better for your needs. You can customize the CSS class name by adjusting <code>iframesClass</code> from the <code>xity.config.js</code> file. Here is an example of a CodePen embed.</p>
@@ -67,9 +67,9 @@
     
     <entry>
       <title>Native Elements</title>
-      <link href="https://www.psytranslations.com//blog/native-elements/"/>
+      <link href="https://www.psytranslations.com//PsyTranslations/blog/native-elements/"/>
       <updated>2020-06-15T00:00:00Z</updated>
-      <id>https://www.psytranslations.com//blog/native-elements/</id>
+      <id>https://www.psytranslations.com//PsyTranslations/blog/native-elements/</id>
       <content type="html">
         <![CDATA[
       <p>Native Elements (NE) is not a CSS framework, no bundlers required or tons of configurations to set. You can consider it as a customizable plug-n-play library for your site which helps you easily style all the available HTML elements using CSS custom properties, classes, attributes, or whatever you want in less than <code>6 kB</code>. You can also build your class-based CSS framework on top of it.</p>
@@ -105,9 +105,9 @@
     
     <entry>
       <title>Karol chévere</title>
-      <link href="https://www.psytranslations.com//blog/karol_chevere/"/>
+      <link href="https://www.psytranslations.com//PsyTranslations/blog/karol_chevere/"/>
       <updated>2021-03-28T00:00:00Z</updated>
-      <id>https://www.psytranslations.com//blog/karol_chevere/</id>
+      <id>https://www.psytranslations.com//PsyTranslations/blog/karol_chevere/</id>
       <content type="html">
         <![CDATA[
       <h3>Karol es chévere</h3>
