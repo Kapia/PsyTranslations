@@ -2,7 +2,7 @@
 module.exports = {
   mount: {
     /* https://www.snowpack.dev/reference/configuration#mount */
-    _output: { url: '/', static: true },
+    build: { url: '/', static: true },
     'assets/js': { url: '/js' },
     'assets/css/vendors': { url: '/css' },
   },
@@ -12,6 +12,7 @@ module.exports = {
     [
       '@snowpack/plugin-run-script',
       { cmd: 'eleventy --pathprefix=PsyTranslations', watch: '$1 --watch --quiet' },
+      /*{ cmd: 'eleventy', watch: '$1 --watch --quiet' },*/
     ],
     [
       '@snowpack/plugin-run-script',

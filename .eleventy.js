@@ -19,7 +19,7 @@ const PATHS = {
   // => /data
   data: '../data',
   // => /_output
-  output: '_output',
+  output: 'build',
   // => /[PATH.INPUT]/blog
   blog: 'blog',
   // => /static
