@@ -5,13 +5,7 @@ module.exports = {
   name: 'PsyTranslations',
   shortDesc: 'Psychology and healthcare linguistic solutions',
   url: 'https://www.psytranslations.com/',
-  /*url: 'https://kapia.github.io',*/
   lang: 'en',
-  /**
-   * Socials and monetisation
-   *
-   authorHandle: '@equinusocio',
-   */
   authorName: 'Enrique Quirós',
   /**
    * Content settings
@@ -25,15 +19,13 @@ module.exports = {
    * Main navigation items.
    * Used by components/header.njk
    */
-  navigation: [],
-
-  navigation2: [
+  navigation: [
     {
       text: 'Home',
       url: '/',
       external: false,
     },
-    {
+   /*  {
       text: 'About',
       url: '/about/',
       external: false,
@@ -52,6 +44,6 @@ module.exports = {
       text: 'Blog',
       url: '/blog/',
       external: false,
-    },
+    }, */
   ],
 }

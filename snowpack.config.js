@@ -2,7 +2,7 @@
 module.exports = {
   mount: {
     /* https://www.snowpack.dev/reference/configuration#mount */
-    build: { url: '/', static: true },
+    _output: { url: '/', static: true },
     'assets/js': { url: '/js' },
     'assets/css/vendors': { url: '/css' },
   },

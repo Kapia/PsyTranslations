@@ -1,10 +1,9 @@
 # TODO
 
+- empezar con la Home
+- i18n
 - crear templates para las páginas / posts
-- Cambiar la config de xity.config
-- Eliminar todo rastro de la palabra Xity + Bulma
-- mirar vulnerables: is-svg, pug
-- https
+- enforce https
 
 A blog-ready 11ty starter based on PostCSS and Snowpack, with a RSS feed and Native Elements.
 
@@ -59,14 +58,6 @@ gris oscuro: #707c7c
 
 ## Usage
 
-You can download the scaffolding to create a new project structure with one command:
-
-```bash
-npx degit equinusocio/xity-starter#main
-```
-
-This command will download the project to your current working directory and remove the `.github` and `.vscode` folders. After the project structure has been downloaded, you should install the required dependencies:
-
 ```bash
 yarn install
 ```
@@ -89,7 +80,7 @@ yarn build
 
 ### More commands
 
-XITY provides also two more commands useful to update dependencies and the cssdb used by Browserslist and PostCSS:
+two more commands useful to update dependencies and the cssdb used by Browserslist and PostCSS:
 
 ```bash
 # Update dependencies interactively
@@ -104,4 +95,4 @@ yarn lint
 
 ## Configurations
 
-You can easily configure your site by changing the settings inside the `xity.config.js` configuration file.
+You can easily configure your site by changing the settings inside the `site.config.js` configuration file.
