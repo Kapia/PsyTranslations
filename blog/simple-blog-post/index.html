@@ -63,7 +63,7 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a href="/" class="navbar-item">
-      <img src="favicon.png" height="28">
+      <img src="../favicon.png" height="28">
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -77,6 +77,10 @@
     <div class="navbar-end">
 
 
+      
+        <a href="/" class="navbar-item">
+          <b>Home</b>
+        </a>
       
 
 
@@ -150,7 +154,7 @@
 </ul>
 <hr>
 <h2 id="code-highlights">Code highlights<a class="permalink" href="#code-highlights">#</a></h2>
-<p>XITY provides code highlighting using <a href="https://prismjs.com/" rel="noopener noreferrer">Prism</a>. By default it uses the <a href="https://github.com/PrismJS/prism-themes/tree/master/themes" rel="noopener noreferrer">Material Theme Lighter</a> as a color scheme. If you want to change the theme, put the <code>css</code> file inside the <code>assets/css</code> folder and set the name inside <code>xity.config.js</code>.</p>
+<p>provides code highlighting using <a href="https://prismjs.com/" rel="noopener noreferrer">Prism</a>. By default it uses the <a href="https://github.com/PrismJS/prism-themes/tree/master/themes" rel="noopener noreferrer">Material Theme Lighter</a> as a color scheme. If you want to change the theme, put the <code>css</code> file inside the <code>assets/css</code> folder and set the name inside <code>site.config.js</code>.</p>
 <div class="code-wrapper"><pre class="language-jsx"><code class="language-jsx"><span class="token keyword">const</span> <span class="token function-variable function">MyComponent</span> <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token parameter">props</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">(</span><br>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span><span class="token class-name">Fragment</span></span><span class="token punctuation">&gt;</span></span><span class="token plain-text"><br>    </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">&gt;</span></span><span class="token plain-text">Hello </span><span class="token punctuation">{</span>props<span class="token punctuation">.</span>name<span class="token punctuation">}</span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">&gt;</span></span><span class="token plain-text"><br>  </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span><span class="token class-name">Fragment</span></span><span class="token punctuation">&gt;</span></span><br><span class="token punctuation">)</span></code></pre></div>
 <p>... and here are some CSS code with a line highlight:</p>
 <div class="code-wrapper"><pre class="language-css"><code class="language-css"><span class="highlight-line"><span class="token selector">:root</span> <span class="token punctuation">{</span></span><br>  <span class="token property">--background-color</span><span class="token punctuation">:</span> white<span class="token selector">;<br><span class="highlight-line"></span><br>  .MyComponent</span> <span class="token punctuation">{</span><br><mark class="highlight-line highlight-line-active">    <span class="token property">background-color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--background-color<span class="token punctuation">)</span><span class="token punctuation">;</span></mark><br><span class="highlight-line">  <span class="token punctuation">}</span></span><br><span class="highlight-line"><span class="token punctuation">}</span></span></code></pre></div>
