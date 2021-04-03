@@ -1,9 +1,9 @@
 # TODO
 
-- github pages?
+- github pages, arreglar paths
 - crear templates para las páginas / posts
 - Cambiar la config de xity.config
-- Eliminar todo rastro de la palabra Xity
+- Eliminar todo rastro de la palabra Xity + Bulma
 
 A blog-ready 11ty starter based on PostCSS and Snowpack, with a RSS feed and Native Elements.
 

@@ -1,5 +1,6 @@
 {
   "name": "Psytranslations",
+  "homepage": ".",
   "version": "2.0.0",
   "private": true,
   "description": "A blog-ready 11ty starter based on PostCSS and Parcel, with a RSS feed and Native Elements.",
