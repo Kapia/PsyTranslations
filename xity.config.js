@@ -5,7 +5,7 @@ module.exports = {
   name: 'PsyTranslations',
   shortDesc:
     "Psychology and healthcare linguistic solutions",
-  url: 'https://www.psytranslations.com/',
+  url: 'https://kapia.github.io',
   lang: 'en',
   /**
    * Socials and monetisation
@@ -26,7 +26,7 @@ module.exports = {
    * Used by components/header.njk
    */
   navigation: [
-    {
+    /*  {
       text: 'About',
       url: '/about/',
       external: false,
@@ -45,6 +45,6 @@ module.exports = {
       text: 'Blog',
       url: '/blog/',
       external: false,
-    },
+    },  */
   ],
 }
