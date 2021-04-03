@@ -4,6 +4,7 @@
 - crear templates para las páginas / posts
 - Cambiar la config de xity.config
 - Eliminar todo rastro de la palabra Xity + Bulma
+- mirar vulnerables: is-svg, pug
 
 A blog-ready 11ty starter based on PostCSS and Snowpack, with a RSS feed and Native Elements.
 
