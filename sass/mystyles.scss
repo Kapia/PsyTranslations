@@ -9,6 +9,7 @@ $pink: #fa7c91;
 $brown: #757763;
 $beige-light: #d0d1cd;
 $beige-lighter: #eff0eb;
+$white: #fff;
 
 $blue: #00add8;
 $yellow: #ffd700;
@@ -16,29 +17,60 @@ $grey: #707c7c;
 
 // Update Bulma's global variables
 $family-sans-serif: 'Nunito', sans-serif;
-$grey-dark: $brown;
-$grey-light: $beige-light;
 $primary: $blue;
+$warning: $yellow;
 $link: $blue;
 //$widescreen-enabled: false;
 //$fullhd-enabled: false;
 
 // Update some of Bulma's component variables
-$body-background-color: $beige-lighter;
+$body-background-color: $white;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 
-$navbar-background-color: $grey;
-$navbar-item-color: white;
-$navbar-item-hover-color: $blue;
-$navbar-item-hover-background-color: white;
+$navbar-background-color: $white;
+$navbar-item-color: $blue;
+$navbar-item-hover-color: $white;
+$navbar-item-hover-background-color: $blue;
+
+//$footer-background-color: $yellow;
+$footer-color: $blue;
+$footer-padding: 2rem;
 
 nav.navbar {
   .nav-item,
   .nav-link {
     color: #fff;
   }
+}
+
+::-moz-selection {
+  color: $yellow;
+  background: $grey;
+}
+::selection {
+  color: $grey;
+  background: $yellow;
+}
+
+.header-image {
+  //background-image: url("http://orig14.deviantart.net/7584/f/2015/181/2/7/flat_mountains_landscape_by_ggiuliafilippini-d8zdbco.jpg");
+  background-image: url('../banner.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  //  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgba(255, 215, 0, 0.5) !important; /* Tint color */
+  background-blend-mode: color-burn;
+}
+
+.blur-hero {
+  padding: 2rem !important;
+  margin-top: 5rem !important;
+  backdrop-filter: blur(6px) brightness(0.8); // invert(0.7);
+  // width: 50%;
+  border-radius: 20px;
 }
 
 // Import only what you need from Bulma
@@ -55,3 +87,99 @@ nav.navbar {
 */
 
 @import '../node_modules/bulma/bulma.sass';
+
+strong {
+  color: $blue !important;
+}
+
+#header-logo {
+  background: url(../favicon.png) no-repeat center center;
+  background-size: 80% 80%;
+  width: 48px;
+  height: 48px;
+}
+
+#header-title {
+  font-size: 150%;
+}
+
+.testimonial-quote {
+  padding: 3em;
+  font-size: 16px;
+}
+
+.testimonial-quote blockquote {
+  //font-family: Georgia, serif;
+  font-size: 1.1em;
+  font-style: italic;
+  line-height: 1.4 !important;
+  position: relative;
+  z-index: 600;
+}
+
+.testimonial-quote blockquote p:first-child:before {
+  content: '\201C';
+  color: $blue;
+  font-size: 7.5em;
+  font-weight: 700;
+  opacity: 0.3;
+  position: absolute;
+  top: -0.5em;
+  left: -0.25em;
+  text-shadow: none;
+  z-index: -300;
+}
+
+.cite {
+  padding-top: 1em;
+  text-align: right;
+}
+
+.sombrevere {
+  box-shadow: -15px 15px 0px 2px #00add8;
+}
+
+.negmargin {
+  margin-top: -2em;
+  margin-bottom: -2em;
+}
+
+.post-it {
+  // font-family: Bradley Hand, cursive;
+  // padding-top: 2em;
+
+  //box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+  //padding-left: 0.5em;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.miniimg {
+  max-height: 14em !important;
+  max-width: 17em !important;
+}
+
+.social-logos {
+  max-height: 2em !important;
+  //max-width: 17em !important;
+}
+
+.bicolor {
+  border-radius: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.bicolor-top {
+  color: $white;
+  background-color: $blue;
+  padding: 2rem;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.bicolor-bottom {
+  background-color: $yellow;
+  padding: 2rem;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

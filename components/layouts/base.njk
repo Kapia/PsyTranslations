@@ -11,24 +11,17 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@native-elements/core@1/native-elements.css"/-->
     <!--link rel="stylesheet" href="../../css/mystyles.css"/-->
 
-     {% block head %}{% endblock %}
+    {% block head %}{% endblock %}
 
     <script src="https://cdn.jsdelivr.net/npm/what-input@5.2.6/dist/what-input.min.js" defer></script>
     <script type="module" src="/js/app.js" defer></script>
+
+    <link rel="manifest" href="/manifest.webmanifest"/>
+
   </head>
   <body>
 
-
     {% block content %}{% endblock content %}
-
-
-
-
-
-
-
-
-
 
     <script>
       document.documentElement.dataset.theme = localStorage.getItem('theme') || 'auto';
@@ -36,17 +29,13 @@
       {% if not env.IS_DEV %}
         if ('serviceWorker' in navigator) {
           window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/service-worker.js');
+            navigator
+              .serviceWorker
+              .register('/service-worker.js');
           });
         }
       {% endif %}
     </script>
-
-
-
-
-
-
 
   </body>
 </html>

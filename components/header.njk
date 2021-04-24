@@ -1,55 +1,104 @@
+<script>
+
+  if ("serviceWorker" in navigator) {
+    navigator
+      .serviceWorker
+      .register("/service-worker.js");
+  }
+
+console.log('This file will contain all functionally required script');
+document.addEventListener("turbolinks:load", function() {
+  console.log('Inside turbolinkss Load')
+});
+window.onload = function(){
+  console.log('Inside window onload')
+};
+document.addEventListener('DOMContentLoaded', function(){
+  console.log('Inside DOMContentLoaded')
+});
+
+
+
+
+
+  console.log(":: 0")
+  document.addEventListener('DOMContentLoaded', () => {
+    console.log(":: 1")
+    // Get all "navbar-burger" elements
+    const $navbarBurgers = Array
+      .prototype
+      .slice
+      .call(document.querySelectorAll('.navbar-burger'), 0);
+
+    console.log(":: 2")
+    // Check if there are any navbar burgers
+    if ($navbarBurgers.length > 0) {
+      console.log(":: 3")
+
+      // Add a click event on each of them
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+          console.log(":: loop 1 ", el.dataset.target)
+
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el
+            .classList
+            .toggle('is-active');
+          $target
+            .classList
+            .toggle('is-active');
+
+        });
+      });
+    }
+
+  });
+</script>
+
 <header>
+
   {% if config.navigation %}
 
+    <nav class="navbar is-fixed-top " role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
 
+        <a id="header-logo" class="navbar-item pt-3" href="/">
 
+          <div class="navbar-item pl-6">
+            <h1 id="header-title">
+              <strong>Psy</strong>Translations
+   </h1>
+          </div>
 
-<nav class="navbar" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="/">
-      <img src="../favicon.png"  height="28">
-    </a>
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
 
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+          <div class="navbar-end">
 
-  <div id="navbarBasicExample" class="navbar-menu">
-    <div class="navbar-end">
-
-
-      {% for item in config.navigation %}
-        <a  class="navbar-item"
+            {% for item in config.navigation %}
+              <a  class="navbar-item"
           href="{{ item.url }}"
           {% if page.url == item.url %} aria-current="page" {% endif %}
 
         >
-          <b>{{ item.text }}</b>
-        </a>
-      {% endfor %}
+                <b>{{ item.text }}</b>
+              </a>
+            {% endfor %}
 
-
+          </div>
+        </div>
 
       </div>
-    </div>
-
-
-  </div>
-</nav>
-
-
-
-
-
-
-
-
-
-
-
+    </nav>
 
   {% endif %}
 

@@ -4,7 +4,7 @@ module.exports = {
    */
   name: 'PsyTranslations',
   shortDesc: 'Psychology and healthcare linguistic solutions',
-  url: 'https://www.psytranslations.com/',
+  url: 'https://www.psytranslations.com',
   lang: 'en',
   authorName: 'Enrique Quirós',
   /**
@@ -25,11 +25,12 @@ module.exports = {
       url: '/',
       external: false,
     },
-   /*  {
+    {
       text: 'About',
       url: '/about/',
       external: false,
     },
+
     {
       text: 'Solutions',
       url: '/solutions/',
@@ -40,10 +41,18 @@ module.exports = {
       url: '/contact/',
       external: false,
     },
-    {
-      text: 'Blog',
-      url: '/blog/',
-      external: false,
-    }, */
   ],
 }
+/*   {
+  text: 'Blog',
+  url: '/blog/',
+  external: false,
+},    {
+  text: 'Blog example',
+  url: '/blog_example/',
+  external: false,
+},    {
+  text: 'Post example',
+  url: '/post_example/',
+  external: false,
+},*/
