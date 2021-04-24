@@ -4,27 +4,24 @@
 - crear templates para sección Blog / posts
 - light / dark
 - SEO? -> https://iamjoona.com/blog/seo-tags-in-eleventy/
-- FORMSPREE https://formspree.io/blog/html-contact-form/
 - traducir textos
   - selector de idioma
 - cookies?
 - google analytics?
-- pwa / workbox?
-
-# arreglar el problema del menu burger (culpable turbo links?)
 
 
 
 
 
-
-A blog-ready 11ty starter based on PostCSS and Snowpack, with a RSS feed and Native Elements.
+11ty blog based on PostCSS and Snowpack, with a RSS feed and Native Elements.
 
 azul: #00add8
 amarillo: #ffd700
 gris oscuro: #707c7c
 
 ## Key features
+
+- FORMSPREE https://formspree.io/blog/html-contact-form/
 
 📰 Integrated RSS Feed.
 
