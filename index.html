@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="alternate" type="application/rss+xml" title href="https://www.psytranslations.com//feed.xml">
+    <link rel="alternate" type="application/rss+xml" title href="https://www.psytranslations.com/feed.xml">
     
 
 
@@ -20,8 +20,8 @@
 <meta property="og:site_name" content="PsyTranslations">
 <meta property="og:title" content="Home - PsyTranslations">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.psytranslations.com//">
-<meta property="twitter:url" content="https://www.psytranslations.com//">
+<meta property="og:url" content="https://www.psytranslations.com/">
+<meta property="twitter:url" content="https://www.psytranslations.com/">
 <meta property="twitter:site" content="PsyTranslations">
 
 
@@ -31,8 +31,8 @@
 <meta property="og:description" content="Psychology and healthcare linguistic solutions">
 
 
-  <meta property="og:image" content="https://www.psytranslations.com//cover.jpg">
-  <meta name="twitter:image" content="https://www.psytranslations.com//cover.jpg">
+  <meta property="og:image" content="https://www.psytranslations.com/cover.jpg">
+  <meta name="twitter:image" content="https://www.psytranslations.com/cover.jpg">
 
 
 
@@ -42,116 +42,668 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@native-elements/core@1/native-elements.css"/-->
     <!--link rel="stylesheet" href="../../css/mystyles.css"/-->
 
-     
+    
 
     <script src="https://cdn.jsdelivr.net/npm/what-input@5.2.6/dist/what-input.min.js" defer></script>
     <script type="module" src="/js/app.js" defer></script>
+
+    <link rel="manifest" href="/manifest.webmanifest">
+
   <link rel="modulepreload" href="/js/app.js"><link rel="modulepreload" href="/_snowpack/pkg/turbolinks.js"><link rel="modulepreload" href="/css/mystyles.css.proxy.js"></head>
   <body>
 
-
     
 
-    <header>
+  <script>
+
+  if ("serviceWorker" in navigator) {
+    navigator
+      .serviceWorker
+      .register("/service-worker.js");
+  }
+
+console.log('This file will contain all functionally required script');
+document.addEventListener("turbolinks:load", function() {
+  console.log('Inside turbolinkss Load')
+});
+window.onload = function(){
+  console.log('Inside window onload')
+};
+document.addEventListener('DOMContentLoaded', function(){
+  console.log('Inside DOMContentLoaded')
+});
+
+
+
+
+
+  console.log(":: 0")
+  document.addEventListener('DOMContentLoaded', () => {
+    console.log(":: 1")
+    // Get all "navbar-burger" elements
+    const $navbarBurgers = Array
+      .prototype
+      .slice
+      .call(document.querySelectorAll('.navbar-burger'), 0);
+
+    console.log(":: 2")
+    // Check if there are any navbar burgers
+    if ($navbarBurgers.length > 0) {
+      console.log(":: 3")
+
+      // Add a click event on each of them
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+          console.log(":: loop 1 ", el.dataset.target)
+
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el
+            .classList
+            .toggle('is-active');
+          $target
+            .classList
+            .toggle('is-active');
+
+        });
+      });
+    }
+
+  });
+</script>
+
+<header>
+
   
 
+    <nav class="navbar is-fixed-top " role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
 
+        <a href="/" class="navbar-item pt-3" id="header-logo">
 
+          <div class="navbar-item pl-6">
+            <h1 id="header-title">
+              <strong>Psy</strong>Translations
+   </h1>
+          </div>
 
-<nav class="navbar" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a href="/" class="navbar-item">
-      <img src="../favicon.png" height="28">
-    </a>
+          </a><a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
 
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+          <div class="navbar-end">
 
-  <div id="navbarBasicExample" class="navbar-menu">
-    <div class="navbar-end">
+            
+              <a aria-current="page" href="/" class="navbar-item">
+                <b>Home</b>
+              </a>
+            
+              <a href="/about/" class="navbar-item">
+                <b>About</b>
+              </a>
+            
+              <a href="/solutions/" class="navbar-item">
+                <b>Solutions</b>
+              </a>
+            
+              <a href="/contact/" class="navbar-item">
+                <b>Contact</b>
+              </a>
+            
 
+          </div>
+        </div>
 
       
-        <a aria-current="page" href="/" class="navbar-item">
-          <b>Home</b>
-        </a>
-      
-
-
-
-      </div>
-    </div>
-
-
-  
-</nav>
-
-
-
-
-
-
-
-
-
-
-
+    </nav>
 
   
 
 </header>
 
 
+  <section class="hero is-primary  mb-4 header-image">
 
+    <div class="hero-body">
+      <div class="container">
 
+        <div class="columns is-desktop">
+          <div class="column blur-hero is-half-desktop">
+            <h1 class="title">
+            Karol Tapia de Moya
+          </h1>
+            <h2 class="subtitle">
+            English to Spanish translator
+          </h2>
+            <h2 class="subtitle">
+            Psychology and healthcare language solutions
+          </h2>
 
+            <a href="/contact/">
+              <button class="button is-warning">Contact</button>
+            </a>
 
-<section class="hero is-primary  is-medium is-bold">
-  <div class="hero-body">
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="negmargin">
+      <path fill="#fff" fill-opacity="1" d="M0,64L80,85.3C160,107,320,149,480,144C640,139,800,85,960,69.3C1120,53,1280,75,1360,85.3L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"/>
+    </svg>
+  </section>
+
+  <section class="section pt-0">
     <div class="container">
-      <h1 class="title">
-        Karol Tapia de Moya
-      </h1>
-      <h2 class="subtitle">
-        English to Spanish translator
-      </h2>      <h2 class="subtitle">
-       Psychology and healthcare language solutions
-      </h2>
+
+      <div class="columns  is-centered">
+        <div class="column is-8">
+          <h1 class="title  has-text-centered">
+            Language solutions: <strong> More than a medical translation</strong>
+          </h1>
+          <p class="  has-text-centered">
+            I deliver more than just a translation. I help you convey your message loud and clear to a global market of over
+            <b> 489 million Spanish speakers.</b>
+          </p>
+          <p class="  has-text-centered">
+            I guarantee a bespoke service that will save you time and money, freeing you up to focus on other strategic objectives. As a psychologist and
+            <b> English to Spanish medical translator</b>
+            , I have extensive experience and specialist training in
+            <b>medical translation </b>
+            , psychology, education, and other areas of health sciences.
+          </p>
+          <div class=" has-text-centered p-5">
+            <button class="button is-warning">See how I do it</button>
+          </div>
+        <p></p>
+      </div>
+
     </div>
   </div>
 </section>
 
+<!--section>
 
-<section class="section">
-    <div class="container">
+  <div class="columns is-8">
+    <div class="column pr-3">
+      <div class="testimonial-quote group">
+        <div class="quote-container">
+          <blockquote>
+            <p>By 2060, the United States will be the second largest Spanish-speaking country in the world after Mexico. In all, 27.5% of the U.S. population will be of Hispanic origin.”</p>
+          </blockquote>
+          <div class="cite">
+            <p>
+              <b>Instituto Cervantes</b>
+              2020 Yearbook
+            </p>
+          </div>
+        </div>
+      </div>
 
-
-
-
-
- <h1 class="title">
-        Coming soon
-      </h1>
-
-      <p class="subtitle">
-We&#x2019;re working to finish the website. We&#x2019;ll be ready soon.
-      </p>
-      <p class="subtitle">
-In the meantime, please check my  <a href="https://www.linkedin.com/in/psikaroltapia/" rel="noopener noreferrer">LinkedIn profile.</a>
-      </p>
     </div>
 
+  </section-->
+
+  <section class="section">
+    <div class="container">
+
+      <div class="columns is-centered">
+        <div class="column is-8">
+
+          <div class="columns ">
+            <div class="column">
+              <figure class="image is-256x256">
+
+                <img src="../home.jpg" alt="Medical professional reading about psychology, medicine and healthcare in tablet">
+              </figure>
+
+            </div>
+            <div class="column">
+              <p class="subtitle">
+                Highly specialized disciplines call for <strong>highly specialized translations.</strong>
+              </p>
+              <p>
+
+              Those working in
+              <b> health sciences</b>
+
+and
+              <b>psychometric assessment </b>
+
+will be keenly aware of the requirement to comply with strict professional guidelines. They also know that any translated content must be of the
+
+
+              <b>highest quality </b>
+nd must maintain the principles of
+
+              <b>validity, reliability, </b>and
+              <b> fairness</b>
+
+with respect to the original.
+
+              <b></b>
+
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="columns  is-centered pb-6 pt-3">
+        <div class="column is-8">
+          <p>These key principles underpin all translated documents, be they:</p>
+          <div class="content">
+            <ul>
+
+              <li> psychometric instruments for clinical use or for human resource management</li>
+              <li>  questionnaires on patient-reported outcomes in clinical trials</li>
+              <li>  leaflets and documentation for patients</li>
+              <li>  instructions for use for medical devices</li>
+              <li>  reports on curriculum accommodations</li>
+              <li>  scientific articles</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
 
   </section>
 
+  <section class="hero is-primary is-bold mb-4">
+
+    <div class="hero-body">
+      <div class="container">
+
+        <div class="columns  is-centered">
+          <div class="column">
+            <div class=" has-text-centered p-5">
+              <figure class="image is-256x256">
+                <img src="../perfil1.jpg" class="is-rounded" alt="Image of Karol Tapia de Moya posing with crossed arms">
+              </figure>
+
+            </div>
+          </div>
+          <div class="column  is-7">
+            <div class="  pl-0 pt-6 pb-3">
+              <h1 class="title">Why work with me?</h1>
+            </div>
+            <p>
+              I&#x2019;m Karol Tapia de Moya, a
+              <b>psychologist</b>-neuropsychologist and
+              <b>medical translator  </b>with over 10 years of combined experience. I help clients communicate their message to the Spanish-speaking world.
+            </p>
+
+            <div class="content">
+
+              <ul>
+                <li> Highly specialized </li>
+                <li> High degree of intercultural awareness </li>
+                <li> Excellent communicator </li>
+                <li>  Friendly and professional </li>
+                <li>  Reliable </li>
+              </ul>
+            </div>
+            <div class="pt-3">
+
+              <a href="/about/">
+                <button class="button is-warning">View my r&#xE9;sum&#xE9;</button>
+
+              </a>
+
+            </div>
+          </div>
+        </div>
 
 
+        <div class="columns">
+          <div class="column">
 
-<!--section class="section">
+            <div class="box">
+              <article class="media">
+                <div class="media-left">
+                  <figure class="image is-64x64">
+                    <img src="../brain-solid.svg" alt="Brain minimalist icon">
+                  </figure>
+                </div>
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <b>Psychology</b>
+                      <br>
+          neuropsychology; clinical, educational, and organizational psychology
+          <br>&#xA0;
+        </p>
+                  </div>
+
+                </div>
+              </article>
+            </div>
+
+          </div>
+          <div class="column">
+
+            <div class="box">
+              <article class="media">
+                <div class="media-left">
+                  <figure class="image is-64x64">
+                    <img src="../heartbeat-solid.svg" alt="Vital sign icon">
+                  </figure>
+                </div>
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <b>Medicine</b>
+                      <br>
+          medical devices, documentation for patients and healthcare professionals, clinical trials
+        </p>
+                  </div>
+
+                </div>
+              </article>
+            </div>
+
+          </div>
+          <div class="column">
+
+            <div class="box">
+              <article class="media">
+                <div class="media-left">
+                  <figure class="image is-64x64">
+                    <img src="../graduation-cap-solid.svg" alt="Graduation cap icon">
+                  </figure>
+                </div>
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <b>Education</b>
+                      <br>
+        training, disability and inclusion, accessibility     <br>&#xA0;
+        </p>
+                  </div>
+
+                </div>
+              </article>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="negmargin">
+      <path fill="#fff" fill-opacity="1" d="M0,64L80,85.3C160,107,320,149,480,144C640,139,800,85,960,69.3C1120,53,1280,75,1360,85.3L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"/>
+    </svg>
+
+  </section>
+
+  <section class="section pt-0">
+    <div class="container">
+
+      <h1 class="title  has-text-centered pb-6">
+           Your  <strong>solutions</strong>
+      </h1>
+
+      <div class="columns is-centered">
+
+        <!-- COLUMNA 1 -->
+        <div class="column  has-text-centered">
+          <figure class="image is-128x128  is-inline-block" style="    height: 128px;">
+            <img src="../language-solid.svg" alt="Translation icon">
+          </figure>
+
+          <h2 class="subtitle  has-text-centered">
+            <strong> Translation </strong>
+          </h2>
+
+          <p class="  has-text-centered pr-3">
+          I translate your psychology, health sciences, and social sciences content from English into Spanish. </p>
+          <div class=" has-text-centered p-5">
+            <br>&#xA0;
+
+      <a href="/solutions/">
+              <button class="button is-warning">Find out more</button>
+            </a>
+
+          </div>
+        <p></p>
+      </div>
+
+      <!-- COLUMNA 2 -->
+      <div class="column  has-text-centered">
+
+        <figure class="image is-128x128  is-inline-block">
+          <img src="../clipboard-check-solid.svg" style="    height: 128px;" alt="Clipboard icon">
+        </figure>
+
+        <h2 class="subtitle  has-text-centered pt-1">
+          <strong> Editing and proofreading </strong>
+        </h2>
+
+        <p class="  has-text-centered pl-3 pr-3">
+I edit the style of documents written in Spanish and I proofread for spelling and grammar errors.         </p><div class=" has-text-centered p-5">
+            <br>&#xA0;
+            <a href="/solutions/">
+              <button class="button is-warning">Find out more</button>
+            </a>
+
+          </div>
+        <p></p>
+      </div>
+
+      <!-- COLUMNA 3 -->
+      <div class="column  has-text-centered">
+        <figure class="image is-128x128  is-inline-block">
+          <img src="../globe-europe-solid.svg" style="    height: 128px;" alt="Global icon">
+        </figure>
+
+        <h2 class="subtitle  has-text-centered">
+          <strong> Adaptation and neutralization </strong>
+        </h2>
+
+        <p class="  has-text-centered  pl-3">
+          I adapt content from European Spanish into Latin American Spanish (and other specific variants) and vice versa.         </p><div class=" has-text-centered p-5">
+
+            <a href="/solutions/">
+              <button class="button is-warning">Find out more</button>
+            </a>
+
+          </div>
+        <p></p>
+      </div>
+
+    </div>
+
+  </div></section>
+
+  <section class="section">
+    <div class="container">
+
+      <h1 class="title  has-text-centered pb-3">
+            Testimonials
+      </h1>
+
+      <div class="columns is-8">
+        <div class="column pr-3">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>Karol has served as our firm&#x2019;s translator for many years. Our firm works in diverse communities around the U.S. and every time, her translations have been perfect! We regularly have to ask local Hispanic/Latinx leaders to review the translations, and they have always been rated as A-plus work! Karol&#x2019;s response to any job is swift and efficient, and she has many times helped us out with emergency projects. She is most professional, and we will continue to work with her as long as we can! Thank you, Karol!&#x201D;</p>
+              </blockquote>
+              <div class="cite">
+                <p>
+                  <b>Linda T. Flynn</b>
+                    Ph.D., Partner</p>
+                    Cultural Planning
+                </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="column">
+
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>I have been working with Karol for a long time and I can say she is a very professional linguist. She is very easy to work with and her translation work is impeccable. I definitely recommend her translation services to anyone looking for a detail-oriented and responsible English/Spanish translator.&#x201D;</p>
+              </blockquote>
+              <div class="cite">
+                <p>
+                  <b>Denisse Geler</b>
+            Project Manager</p> Green Translations
+
+            </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="columns is-8">
+        <div class="column pr-3">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>Karol is an excellent translator - her service is outstanding and her work is accurate and deliveredon time every time. She also always asks if she is unsure of something.&#x201D;</p>
+              </blockquote>
+              <div class="cite">
+                <p>
+                  <b>Michelle Diamond</b>
+                Owner and COO</p> Writing Sense
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>Fantastic work, everything went as expected. Karol went beyond my expectations by providing superb ideas as a co-writer of my book. Muchas gracias, Karol!&#x201D;</p>
+              </blockquote>
+              <div class="cite">
+                <p>
+                  <b>Oscar Segurado</b>
+                NEO Chi Institute</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="section pt-0 pb-6">
+    <div class="container pb-6">
+
+      <h1 class="title  has-text-centered pb-1">
+        Member
+      </h1>
+
+       <div class="columns  is-centered">
+      <div class="column is-8">
+
+        <div class="box  post-it p-6">
+          <div class="columns">
+            <div class="column pt-3">
+
+              <figure class="image " height="200">
+                <img src="../clientes1.png" alt="International Association of Medical Translators and Writers and Related Sciences (TREM&#xC9;DICA) logo">
+              </figure>
+
+            </div>
+
+            <div class="column pt-3">
+              <figure class="image " height="200">
+                <img src="../clientes2.png" alt="Colombian Association of Translators, Terminologists and Interpreters (ACTTI) logo">
+              </figure>
+            </div>
+
+            <div class="column pt-3">
+              <figure class="image " height="200">
+                <img src="../clientes3.png" alt="Official Association of Psychology of Eastern Andalusia (COPAO) logo">
+              </figure>
+            </div>
+
+            <div class="column pt-3">
+              <figure class="image " height="150">
+                <img src="../clientes4.png" alt="Andalusian Neuropsychology Society (SaNp) logo">
+              </figure>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    </div></section>
+
+    <footer class="footer">
+
+  <div class="columns  is-centered">
+    <div class="column is-half">
+
+      <div class="pb-3">
+
+        <a href="/privacy/">
+          <p class="  has-text-centered">
+        Privacy Policy
+          </p>
+        </a>
+
+      </div>
+
+      <div class>
+        <a href="/legal/">
+          <p class="  has-text-centered">
+            Legal notice
+          </p>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="column is-half">
+
+      <div class="columns">
+        <div class="column">
+          <a href="https://www.linkedin.com/in/psikaroltapia/" rel="noopener noreferrer">
+            <figure class="image ">
+              <img src="../linkedin.svg" class=" social-logos" alt="linkedin logo">
+            </figure>
+          </a>
+        </div>
+        <div class="column">
+          <a href="https://www.proz.com/translator/1947248" rel="noopener noreferrer">
+            <figure class="image">
+              <img src="../proz.svg" class=" social-logos" alt="proz logo">
+            </figure>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</footer>
+
+
+    <!--section class="section">
     <div class="container">
       <h1 class="title">
 
@@ -197,26 +749,11 @@ The design of this demo site is not polished to avoid bloating the starter with 
 
 
 
-
-
-
-
-
-
-
-
-
     <script>
       document.documentElement.dataset.theme = localStorage.getItem('theme') || 'auto';
 
       
     </script>
-
-
-
-
-
-
 
   </body>
 </html>
