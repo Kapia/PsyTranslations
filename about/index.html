@@ -48,7 +48,7 @@
     <script type="module" src="/js/app.js" defer></script>
 
     <link rel="manifest" href="/manifest.webmanifest">
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="modulepreload" href="/js/app.js"><link rel="modulepreload" href="/_snowpack/pkg/turbolinks.js"><link rel="modulepreload" href="/css/mystyles.css.proxy.js"></head>
   <body>
 
@@ -62,56 +62,14 @@
       .register("/service-worker.js");
   }
 
-console.log('This file will contain all functionally required script');
-document.addEventListener("turbolinks:load", function() {
-  console.log('Inside turbolinkss Load')
-});
-window.onload = function(){
-  console.log('Inside window onload')
-};
-document.addEventListener('DOMContentLoaded', function(){
-  console.log('Inside DOMContentLoaded')
-});
+  $(document).ready(function () {
+    // Check for click events on the navbar burger icon
+    $(".navbar-burger").click(function () {
 
-
-
-
-
-  console.log(":: 0")
-  document.addEventListener('DOMContentLoaded', () => {
-    console.log(":: 1")
-    // Get all "navbar-burger" elements
-    const $navbarBurgers = Array
-      .prototype
-      .slice
-      .call(document.querySelectorAll('.navbar-burger'), 0);
-
-    console.log(":: 2")
-    // Check if there are any navbar burgers
-    if ($navbarBurgers.length > 0) {
-      console.log(":: 3")
-
-      // Add a click event on each of them
-      $navbarBurgers.forEach(el => {
-        el.addEventListener('click', () => {
-          console.log(":: loop 1 ", el.dataset.target)
-
-          // Get the target from the "data-target" attribute
-          const target = el.dataset.target;
-          const $target = document.getElementById(target);
-
-          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-          el
-            .classList
-            .toggle('is-active');
-          $target
-            .classList
-            .toggle('is-active');
-
-        });
-      });
-    }
-
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+    });
   });
 </script>
 
@@ -184,11 +142,11 @@ document.addEventListener('DOMContentLoaded', function(){
             English to Spanish translator
           </h2>
           <h2 class="subtitle">
-            Psychology and healthcare language solutions
+            Experienced healthcare professional
           </h2>
 
           <a href="/contact/">
-            <button class="button is-warning">Contact</button>
+            <button class="button is-warning">Find out how I can help you</button>
           </a>
 
         </div>
@@ -243,7 +201,7 @@ specializing in medical translations.
 
           <div class="box has-background-warning mt-6">
             <strong>
-              <a target="_blank" href="https://cfcdn.proz.com/profile_resources/1947248_r6083f9f7202b4.pdf" rel="noopener noreferrer"> Learn more about my professional and academic background </a>
+              <a target="_blank" href="https://cfcdn.proz.com/profile_resources/1947248_r6083f9f7202b4.pdf" rel="noopener noreferrer"> View my r&#xE9;sum&#xE9; </a>
             </strong>
           </div>
 
@@ -262,14 +220,14 @@ specializing in medical translations.
 
 </section>
 
-<section class="section pt-0">
+<section class="section pt-2">
 <div class="container">
 
-  <h1 class="title  has-text-centered pb-6">
+  <h1 class="title  has-text-centered pb-5">
             Why  <strong> choose me?</strong>
   </h1>
 
-  <p class="subtitle">
+  <p class="pb-5">
            I promise you results and quality with rigorous and professional translations in the fields of
            <b> medicine, psychology, </b> and
            <b> education: </b>
@@ -410,28 +368,34 @@ specializing in medical translations.
         <div class="box  post-it p-6">
           <div class="columns">
             <div class="column pt-3">
-
               <figure class="image " height="200">
-                <img src="../clientes1.png" alt="International Association of Medical Translators and Writers and Related Sciences (TREM&#xC9;DICA) logo">
-              </figure>
-
-            </div>
-
-            <div class="column pt-3">
-              <figure class="image " height="200">
-                <img src="../clientes2.png" alt="Colombian Association of Translators, Terminologists and Interpreters (ACTTI) logo">
+                <a target="_blank" href="https://www.tremedica.org/buscador-de-linguistas-profesionales/linguista/?usuario=psikapiagmail-com" rel="noopener noreferrer">
+                  <img src="../clientes1.png" alt="International Association of Medical Translators and Writers and Related Sciences (TREM&#xC9;DICA) logo">
+                </a>
               </figure>
             </div>
 
             <div class="column pt-3">
               <figure class="image " height="200">
-                <img src="../clientes3.png" alt="Official Association of Psychology of Eastern Andalusia (COPAO) logo">
+                <a target="_blank" href="https://www.actti.org/karol-tapia-de-moya/" rel="noopener noreferrer">
+                  <img src="../clientes2.png" alt="Colombian Association of Translators, Terminologists and Interpreters (ACTTI) logo">
+                </a>
+              </figure>
+            </div>
+
+            <div class="column pt-3">
+              <figure class="image " height="200">
+                <a target="_blank" href="https://copao.com/ventanilla-unica/verificacion-colegiados/" rel="noopener noreferrer">
+                  <img src="../clientes3.png" alt="Official Association of Psychology of Eastern Andalusia (COPAO) logo">
+                </a>
               </figure>
             </div>
 
             <div class="column pt-3">
               <figure class="image " height="150">
-                <img src="../clientes4.png" alt="Andalusian Neuropsychology Society (SaNp) logo">
+                <a target="_blank" href="http://sanp.es/new/index.html" rel="noopener noreferrer">
+                  <img src="../clientes4.png" alt="Andalusian Neuropsychology Society (SaNp) logo">
+                </a>
               </figure>
             </div>
           </div>

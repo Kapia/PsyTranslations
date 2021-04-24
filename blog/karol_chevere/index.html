@@ -48,7 +48,7 @@
     <script type="module" src="/js/app.js" defer></script>
 
     <link rel="manifest" href="/manifest.webmanifest">
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="modulepreload" href="/js/app.js"><link rel="modulepreload" href="/_snowpack/pkg/turbolinks.js"><link rel="modulepreload" href="/css/mystyles.css.proxy.js"></head>
   <body>
 
@@ -64,56 +64,14 @@
       .register("/service-worker.js");
   }
 
-console.log('This file will contain all functionally required script');
-document.addEventListener("turbolinks:load", function() {
-  console.log('Inside turbolinkss Load')
-});
-window.onload = function(){
-  console.log('Inside window onload')
-};
-document.addEventListener('DOMContentLoaded', function(){
-  console.log('Inside DOMContentLoaded')
-});
+  $(document).ready(function () {
+    // Check for click events on the navbar burger icon
+    $(".navbar-burger").click(function () {
 
-
-
-
-
-  console.log(":: 0")
-  document.addEventListener('DOMContentLoaded', () => {
-    console.log(":: 1")
-    // Get all "navbar-burger" elements
-    const $navbarBurgers = Array
-      .prototype
-      .slice
-      .call(document.querySelectorAll('.navbar-burger'), 0);
-
-    console.log(":: 2")
-    // Check if there are any navbar burgers
-    if ($navbarBurgers.length > 0) {
-      console.log(":: 3")
-
-      // Add a click event on each of them
-      $navbarBurgers.forEach(el => {
-        el.addEventListener('click', () => {
-          console.log(":: loop 1 ", el.dataset.target)
-
-          // Get the target from the "data-target" attribute
-          const target = el.dataset.target;
-          const $target = document.getElementById(target);
-
-          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-          el
-            .classList
-            .toggle('is-active');
-          $target
-            .classList
-            .toggle('is-active');
-
-        });
-      });
-    }
-
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+    });
   });
 </script>
 
