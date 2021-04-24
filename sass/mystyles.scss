@@ -33,6 +33,7 @@ $navbar-background-color: $white;
 $navbar-item-color: $blue;
 $navbar-item-hover-color: $white;
 $navbar-item-hover-background-color: $blue;
+$navbar-item-active-background-color: $blue;
 
 //$footer-background-color: $yellow;
 $footer-color: $blue;
@@ -183,5 +184,15 @@ strong {
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
 }
+
+
+
+[aria-current]:not([aria-current="false"]) {
+  font-weight: bold;
+  background-color: $blue;
+  color:$white;
+}
+
+
 
 

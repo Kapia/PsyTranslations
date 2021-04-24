@@ -4329,7 +4329,7 @@ a.navbar-item,
     color: #0a0a0a; }
   a.navbar-item.is-active:not(:focus):not(:hover),
   .navbar-link.is-active:not(:focus):not(:hover) {
-    background-color: transparent; }
+    background-color: #00add8; }
   .navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link {
     background-color: #00add8; } }
 
@@ -7870,3 +7870,8 @@ strong {
   padding: 2rem;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px; }
+
+[aria-current]:not([aria-current="false"]) {
+  font-weight: bold;
+  background-color: #00add8;
+  color: #fff; }
