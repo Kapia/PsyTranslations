@@ -69,7 +69,7 @@ module.exports = function (eleventyConfig) {
    */
   eleventyConfig.addPlugin(rssPlugin)
   eleventyConfig.addPlugin(syntaxHighlightPlugin)
-  eleventyConfig.addPlugin(pwaPlugin)
+ //eleventyConfig.addPlugin(pwaPlugin)
 
   /**
    * Create custom data collections
