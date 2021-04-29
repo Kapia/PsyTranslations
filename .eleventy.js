@@ -36,7 +36,10 @@ module.exports = function (eleventyConfig) {
     './static': '.',
   })
 
-
+  eleventyConfig.addPassthroughCopy('css')
+  return {
+    passthroughFileCopy: true
+  }
 
 
   /**

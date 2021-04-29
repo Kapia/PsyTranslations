@@ -1,5 +1,5 @@
 import Turbolinks from 'turbolinks'
-import "../css/vendors/mystyles.css"
+// import "../css/vendors/mystyles.css"
 
 /**
  * Init Turbolinks within the site
