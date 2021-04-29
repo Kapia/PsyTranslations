@@ -22,9 +22,13 @@ nav.navbar .nav-link {
 
 .blur-hero {
   padding: 2rem !important;
-  margin-top: 5rem !important;
-  backdrop-filter: blur(6px) brightness(0.8);
+  margin-top: 3rem !important;
+  background-color: rgba(0, 0, 0, 0.35);
   border-radius: 20px; }
+
+@supports (-webkit-backdrop-filter: blur(2em)) or (backdrop-filter: blur(2em)) {
+  .blur-hero {
+    backdrop-filter: blur(6px); } }
 
 /*
 @import '../node_modules/bulma/sass/utilities/_all.sass';
