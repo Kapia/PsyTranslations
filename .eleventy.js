@@ -23,7 +23,7 @@ const PATHS = {
   // => /[PATH.INPUT]/blog
   blog: 'blog',
   // => /static
-  static: 'static'
+  static: 'static',
 }
 
 module.exports = function (eleventyConfig) {
@@ -37,10 +37,6 @@ module.exports = function (eleventyConfig) {
   })
 
   eleventyConfig.addPassthroughCopy('css')
-  return {
-    passthroughFileCopy: true
-  }
-
 
   /**
    * Add filters
@@ -72,7 +68,7 @@ module.exports = function (eleventyConfig) {
    */
   eleventyConfig.addPlugin(rssPlugin)
   eleventyConfig.addPlugin(syntaxHighlightPlugin)
- //eleventyConfig.addPlugin(pwaPlugin)
+  //eleventyConfig.addPlugin(pwaPlugin)
 
   /**
    * Create custom data collections
@@ -84,7 +80,9 @@ module.exports = function (eleventyConfig) {
   const livePosts = (post) => post.date <= now && !post.data.draft
   eleventyConfig.addCollection('posts', (collection) => {
     return [
-      ...collection.getFilteredByGlob(`./${PATHS.input}/${PATHS.blog}/**/*`).filter(livePosts),
+      ...collection
+        .getFilteredByGlob(`./${PATHS.input}/${PATHS.blog}/**/*`)
+        .filter(livePosts),
     ]
   })
 
@@ -109,9 +107,19 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: 'njk',
     templateFormats: [
       // Templates:
-      'md', 'njk', 'html',
+      'md',
+      'njk',
+      'html',
       // Static Assets:
-      'css', 'jpeg', 'jpg', 'png', 'webp', 'avif', 'svg', 'woff', 'woff2',
+      'css',
+      'jpeg',
+      'jpg',
+      'png',
+      'webp',
+      'avif',
+      'svg',
+      'woff',
+      'woff2',
     ],
   }
 }
