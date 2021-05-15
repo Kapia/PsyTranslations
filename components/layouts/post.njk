@@ -3,68 +3,76 @@
 
 {# Populate <head> with post-related assets #}
 
-
 {% block content %}
 
+  {% include "header.njk" %}
 
-
-    {% include "header.njk" %}
-
-
-<section class="section">
+  <section class="section pt-6">
     <div class="container">
 
+      <div class="card post-it">
+        <div class="card-image">
+          <figure class="image is-5by3">
+            <img src={{ "../"+picture }} alt={{ title }}>
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="content has-text-left">
+            <h2 class="is-2  has-text-left has-text-weight-medium">
+              {{ title }}</h2>
 
+            {% if date %}
 
+              <h6 class="is-4  has-text-left has-text-grey has-text-weight-light is-italic is-family-sans-serif">
+                <time datetime="{{ date | htmlDate }}">{{ date | dateFilter }}</time>
 
+              </h6>
 
-    {% if date %}
-      <small><time datetime="{{ date | htmlDate }}">{{ date | dateFilter }}</time></small>
-    {% endif %}
+            {% endif %}
 
-    <h1>{{ title }}</h1>
+            {% if tags.length %}
 
-    {% if tags.length %}
-      <ul style="all: unset; display: inline-flex; list-style: none;">
-      {% for tag in tags %}
-        <li style="margin-right: 16px"><a href="/blog/tag/{{tag}}/">#{{tag}}</a></li>
-      {% endfor %}
-      </ul>
-    {% endif %}
+              <ul style="all: unset; display: inline-flex; list-style: none;">
+                {% for tag in tags %}
+                  <li style="margin-right: 16px">
+                    <h6 class="is-4  has-text-left has-text-grey has-text-weight-light is-italic is-family-sans-serif"></li>
+                    <a href="/blog/tag/{{tag}}/">#{{tag}}</a>
+                  </h6>
+                {% endfor %}
+              </ul>
+            {% endif %}
 
-    <hr />
+            <span class="icon has-text-black is-left">
+              <i class="fab fa-facebook-f"></i>
+            </span>
+            <span class="icon has-text-black">
+              <i class="fab fa-twitter"></i>
+            </span>
+            <span class="icon has-text-black">
+              <i class="fab fa-pinterest-p"></i>
+            </span>
 
-    <article ne-prose>
-      {{ content | safe }}
-    </article>
+            <hr>
 
-    <hr />
+            <p class="is-4  has-text-grey has-text-left ">
+              {{ content | safe }}
+            </p>
 
-    {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-    {% set nextPost = collections.posts | getNextCollectionItem(page) %}
-    {{ postNavigation(previousPost, nextPost) }}
+          </div>
 
+        </div>
 
+      </div>
 
+      <hr/>
+
+      {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+      {% set nextPost = collections.posts | getNextCollectionItem(page) %}
+      {{ postNavigation(previousPost, nextPost) }}
 
     </div>
 
-
   </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-  <main tabindex="-1">
-  </main>
+  <main tabindex="-1"></main>
 {% endblock %}
-

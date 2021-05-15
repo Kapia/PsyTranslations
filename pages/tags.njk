@@ -19,7 +19,7 @@ permalink: /blog/tag/{{ tag | slug }}/
       {% if not loop.first %}
         <hr/>
       {% endif %}
-      {{ postItem(post.url, post.data.title, post.date) }}
+      {{ postItem(post.url, post.data.title, post.date, post.description, post.picture) }}
     {% endfor %}
   </ol>
 </section>

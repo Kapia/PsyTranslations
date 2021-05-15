@@ -41,18 +41,12 @@ module.exports = {
       url: '/contact/',
       external: false,
     },
+    {
+      text: 'Blog',
+      url: '/blog/',
+      external: false,
+    },
   ],
 }
-/*   {
-  text: 'Blog',
-  url: '/blog/',
-  external: false,
-},    {
-  text: 'Blog example',
-  url: '/blog_example/',
-  external: false,
-},    {
-  text: 'Post example',
-  url: '/post_example/',
-  external: false,
-},*/
+
+

@@ -1,8 +1,24 @@
-{% macro postItem(url, title, date) %}
-  <li ne-prose>
-    <h5>
-      <a href="{{ url }}" rel="bookmark">{{ title }}</a>
-    </h5>
-    <time datetime="{{ date | htmlDate }}">{{ date | dateFilter }}</time>
-  </li>
+{% macro postItem(url, title, date, description, picture) %}
+  <div class="column is-one-third">
+    <div class="card post-it ">
+
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <img src={{ picture }} alt={{ title }}>
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h2 class="is-2  has-text-center has-text-weight-medium ">
+            <a href="{{ url }}" rel="bookmark">{{ title }}</a>
+          </h2>
+          <h6 class="is-4  has-text-center has-text-grey has-text-weight-light is-italic is-family-sans-serif">
+            <time datetime="{{ date | htmlDate }}">{{ date | dateFilter }}</time>
+          </h6>
+          <hr>
+          <p class="is-4  has-text-grey has-text-center ">{{ description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
 {% endmacro %}
