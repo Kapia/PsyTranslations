@@ -3,7 +3,7 @@ module.exports = {
    * Site data
    */
   name: 'English to Spanish translator | PsyTranslations',
-  shortDesc: 'Psychology and Healthcare linguistic solutions for your Spanish needs by a licensed psychologist and medical translator.',
+  shortDesc: 'Psychology translator: Psychology and Healthcare linguistic solutions for your Spanish needs by a licensed psychologist and medical translator.git',
   url: 'https://www.psytranslations.com',
   lang: 'en',
   authorName: 'Enrique Quirós',
@@ -41,12 +41,18 @@ module.exports = {
       url: '/contact/',
       external: false,
     },
-    {
-      text: 'Blog',
-      url: '/blog/',
-      external: false,
-    },
   ],
 }
-
-
+/*   {
+  text: 'Blog',
+  url: '/blog/',
+  external: false,
+},    {
+  text: 'Blog example',
+  url: '/blog_example/',
+  external: false,
+},    {
+  text: 'Post example',
+  url: '/post_example/',
+  external: false,
+},*/
