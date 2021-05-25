@@ -12,6 +12,10 @@
   {% set pageDesc = metaDesc %}
 {% endif %}
 
+{% if metaSharing %}
+  {% set pageDesc = metaSharing %}
+{% endif %}
+
 <title>{{ pageTitle }}</title>
 
 {% if canonical %}

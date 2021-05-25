@@ -2,6 +2,7 @@
 title: 50 diferencias que marcan la diferencia
 date: '2021-05-15'
 description: 50 parejas de términos que se confunden con frecuencia en español en el habla popular y en textos de divulgación y académicos. / Translated article with 50 pairs of terms that are frequently confused in popular culture and by psychologists and Psychology students.
+metaSharing: 50 parejas de términos que se confunden con frecuencia en español en el habla popular y en textos de divulgación y académicos. / Translated article with 50 pairs of terms that are frequently confused in popular culture and by psychologists and Psychology students.
 picture: ../blog1.jpg
 tags:
   - Spanish
