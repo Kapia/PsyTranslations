@@ -14,7 +14,7 @@ tags:
 
 <hr />
 
-<p>&iquest;Cuántas veces has escuchado hablar de que una persona es antisocial porque no le gusta socializar? &iquest;Sabes cuál es la diferencia entre estar ansioso y tener miedo? &iquest;Cuándo podemos hablar de recaída en el contexto de los trastornos mentales? &iquest;Crees que las personas con esquizofrenia tienen varias personalidades? Si no estás seguro sobre estas cuestiones y otras más, vale la pena que eches un vistazo a esta entrada para que aclares tus dudas.</p>
+<p>&iquest;Cuántas veces has escuchado hablar de que una persona es antisocial porque no le gusta socializar? &iquest;Sabes cuál es la diferencia entre tener ansiedad y tener miedo? &iquest;Cuándo podemos hablar de recaída en el contexto de los trastornos mentales? &iquest;Crees que las personas con esquizofrenia tienen varias personalidades? Si no estás seguro sobre estas cuestiones y otras más, vale la pena que eches un vistazo a esta entrada para que aclares tus dudas.</p>
 
 <p align="center">
   <img src="../../asocial_meme.jpg " alt="Asocial meme">
