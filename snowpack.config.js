@@ -33,13 +33,13 @@ module.exports = {
   ],
   optimize: {
     /* https://www.snowpack.dev/guides/optimize-and-bundle#option-1%3A-built-in-optimizations */
-    entrypoints: 'auto',
+    /*  entrypoints: 'auto',
     preload: true,
     splitting: true,
     treeshake: true,
     bundle: true,
     minify: true,
-    target: 'es2018',
+    target: 'es2018', */
   },
   packageOptions: {
     /* https://www.snowpack.dev/reference/configuration#packageoptions */
