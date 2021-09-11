@@ -11,7 +11,10 @@ module.exports = {
     '@snowpack/plugin-postcss',
     [
       '@snowpack/plugin-run-script',
-      { cmd: 'eleventy --pathprefix=PsyTranslations', watch: '$1 --watch --quiet' },
+      {
+        cmd: 'eleventy --pathprefix=PsyTranslations',
+        watch: '$1 --watch --quiet',
+      },
       /*{ cmd: 'eleventy', watch: '$1 --watch --quiet' },*/
     ],
     [
@@ -30,9 +33,11 @@ module.exports = {
   ],
   optimize: {
     /* https://www.snowpack.dev/guides/optimize-and-bundle#option-1%3A-built-in-optimizations */
+    entrypoints: 'auto',
     preload: true,
     splitting: true,
     treeshake: true,
+    bundle: true,
     minify: true,
     target: 'es2018',
   },
