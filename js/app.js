@@ -1,1 +1,22 @@
-import e from"../_snowpack/pkg/turbolinks.js";e.start();const o=document.documentElement,m=t=>{o.dataset.theme=t,localStorage.setItem("theme",t)};
+import Turbolinks from '../_snowpack/pkg/turbolinks.js'
+// import "../css/vendors/mystyles.css"
+
+/**
+ * Init Turbolinks within the site
+ */
+Turbolinks.start()
+
+/**
+ * Init ThemeSwitcher
+ */
+const html = document.documentElement
+/*
+const themeSwitcher = document.getElementById('themeSwitcher')
+const currentTheme = 'light'
+themeSwitcher.value = currentTheme
+*/
+
+const setTheme = (theme) => {
+  html.dataset.theme = theme
+  localStorage.setItem('theme', theme)
+}
