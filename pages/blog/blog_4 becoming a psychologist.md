@@ -1,6 +1,6 @@
 ---
 title: Steps to becoming a licensed psychologist—what happens in Spain and Colombia
-date: '2021-09-15'
+date: '2021-09-11'
 description: Did you know that knowing the different prerequisites to become a psychologist may make the difference in your Psychology app localization efforts? Check two examples of Spanish-speaking countries. /¿Sabías que conocer los distintos requisitos para convertirse en psicólogo puede marcar la diferencia en la localización de tu aplicación de psicología? Echa un vistazo a dos casos de países hispanohablantes.
 metaSharing: Do you know the difference between a “psychometrician” and a “psychometrist”? It's not as easy as it seems. Here are the differences and suggestions for translation to Spanish.
 picture: ../blog4.jpg
@@ -73,7 +73,7 @@ tags:
 </p>
 <p align="center">
   <i>Path to becoming a licensed psychologist and healthcare professional in Spain</i>
-  
+
 <p>Step 1. Get a bachelor&rsquo;s</p>
 <p>Nowadays, and as part of the Bologna Process, the undergraduate degree roughly equivalent to a bachelor&rsquo;s degree is the &ldquo;grado&rdquo; of 4 years. So the degree would be a &ldquo;grado de psicolog&iacute;a&rdquo;, which is offered in public and private universities. You can also choose optional subject groups (&ldquo;itinerarios&rdquo;) that let you graduate with a special mention (similar to a minor). For example, the <a href="https://www.uma.es/grado-en-psicologia/info/9547/plan-de-estudios/">Universidad de M&aacute;laga</a> offers minors in psychosocial intervention, psychoeducative intervention, and clinical psychology. For now, this doesn&rsquo;t have a huge impact, but the minor you choose might be decisive in accessing specific master&rsquo;s programs in the future.</p>
 <p><strong>You&rsquo;re now a psychologist!</strong> This is all you need to be considered a psychologist and this is enough to work in research, industrial psychology, and other non-clinical fields.</p>

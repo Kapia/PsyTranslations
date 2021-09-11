@@ -3,10 +3,10 @@ module.exports = {
     // https://github.com/postcss/postcss-import
     require('postcss-import')(),
     // https://github.com/postcss/postcss-dark-theme-class
-    require('postcss-dark-theme-class')({
+    /* require('postcss-dark-theme-class')({
       darkSelector: '[data-theme="dark"]',
       lightSelector: '[data-theme="light"]'
-    }),
+    }),*/
     // https://preset-env.cssdb.org
     require('postcss-preset-env')({
       stage: 0,
