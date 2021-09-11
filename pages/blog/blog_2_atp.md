@@ -1,7 +1,7 @@
 ---
 title: A freelance translator at the ATP 2021 Conference—Is it worth it?
 date: '2021-06-26'
-description: ¿Alguna vez has querido asistir a una conferencia del sector de las pruebas psicológicas y la evaluación, pero no te has atrevido? Así es una desde dentro. / Have you ever wanted to attend a conference in the psychological testing and assessment industry, but didn't dare? Here's what one looks like from the inside.
+description: Have you ever wanted to attend a conference in the psychological testing and assessment industry, but didn't dare? Here's what one looks like from the inside. / ¿Alguna vez has querido asistir a una conferencia del sector de las pruebas psicológicas y la evaluación, pero no te has atrevido? Así es una desde dentro.
 metaSharing: Have you ever wanted to attend a conference in the psychological testing and assessment industry, but didn't dare? Here's what one looks like from the inside.
 picture: ../blog2.jpg
 tags:
