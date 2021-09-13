@@ -10,14 +10,10 @@ tags:
   - Terminology
 ---
 
-<p align="center">
-    <a>
-        <strong>
-            Cómo traducir <em>psychometrician</em> y <em>psychometrist</em>
-        </strong>
-    </a>
-</p>
-<p><em><strong>**Note for non-Spanish speakers:</strong> This entry is about the differences between the terms “psychometrician” and “psychometrist” and how both should not be translated as “psicómetra” in Spanish, like sometimes it’s suggested. Please check suggestions for translation in <b><a href="#anchor-2">this</a></b> section.</em></p>
+
+<p><em><strong>**Note for non-Spanish speakers:</strong> This entry is about the differences between the terms “psychometrician” and “psychometrist” and how both should not be translated as “psicómetra” in Spanish, like sometimes it’s suggested. Please check suggestions for translation in <b><a href="#anchor-2">this</b></a> section.</em></p>
+<hr />
+
 <p>¿Sabías que <em>psychometrician</em> y <em>psychometrist</em> no se refieren necesariamente a lo mismo? Aunque pueda parecer obvio a quien se haya formado en Estados Unidos o a los especialistas en psicometría, no fue hasta que asistí recientemente a una <a href="https://psytranslations.com/blog/blog_2_atp/">conferencia</a> del sector de la evaluación psicométrica, cuando me quedó completamente claro que tenían significados muy distintos.</p>
 <p>Parece que no soy la única y que la confusión es muy frecuente. Incluso en la versión actual (3.17) del Libro Rojo (Navarro, s. f.) se sugiere <em>psicómetra</em> para ambos términos. Por otro lado, si buscas la palabra <em>psicometrista</em> encontrarás más de 20 000 resultados en Google. ¿Por qué tanta confusión? </p>
 <p>Avanzo que en esta entrada solo me centraré en la aplicación e interpretación de pruebas o test psicológicos,<strong> especialmente en el contexto clínico. </strong></p>
