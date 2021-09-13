@@ -52,23 +52,23 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_2_atp/index.html",
-    "revision": "6fc6e653abfd72b244d512d97744f880"
+    "revision": "912b2bcbd7b30e3e4b44608ad1ec7961"
   },
   {
     "url": "blog/blog_3 psychometrist psychometrician /index.html",
-    "revision": "ac80f385a97ae471f467f6e85825f882"
+    "revision": "f8b7b4b625e367f772a8742ba54c9f97"
   },
   {
     "url": "blog/blog_4 becoming a psychologist/index.html",
-    "revision": "b353a9dfdaf43f77e2e64bc8702968f0"
+    "revision": "2f40fbf630b319596f87aae435c33d12"
   },
   {
     "url": "blog/index.html",
-    "revision": "a47f47de9016689c7c9171d5fbb0a7f9"
+    "revision": "a1a37e3f6de89e44ba2656d6d84b4fd9"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "6be62191f4e9adc9ccccbd1c4788513d"
+    "revision": "f0829e5fa776031602ef2a9b8ffc9637"
   },
   {
     "url": "blog/tag/english/index.html",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog4-1.png",
-    "revision": "7bfa24f53eb193a4284c187f0cb41e90"
+    "revision": "61c6054f004f3780abd91623512aed9e"
   },
   {
     "url": "blog4-2.jpg",
@@ -140,15 +140,15 @@ self.__precacheManifest = [
   },
   {
     "url": "blog4-3.png",
-    "revision": "e7d34811debe0b98474d5cf4a516fbab"
+    "revision": "717870ab8bc1c2f1dfab1b01d94c8119"
   },
   {
     "url": "blog4-4.png",
-    "revision": "5b3f151566438a37a3cdf002587ce355"
+    "revision": "35cc0a9fe179b9d53c2ecf93e6d301a8"
   },
   {
     "url": "blog4-5.jpg",
-    "revision": "dcd44cbe8fdb8bcb8c239de3c12ab833"
+    "revision": "8b10f1bbe2cc858cfe290fe69c6878e5"
   },
   {
     "url": "blog4.jpg",
