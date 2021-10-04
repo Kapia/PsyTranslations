@@ -2,7 +2,7 @@
 title: Steps to becoming a licensed psychologist—what happens in Spain and Colombia
 date: '2021-09-11'
 description: Did you know that knowing the different prerequisites to becoming a psychologist might make the difference in your Psychology app localization efforts? / Conocer los distintos requisitos para ser en psicólogo puede marcar la diferencia en la localización de tu aplicación de psicología. Mira dos casos de países hispanohablantes.
-metaSharing: Do you know the difference between a “psychometrician” and a “psychometrist”? It's not as easy as it seems. Here are the differences and suggestions for translation to Spanish.
+metaSharing: Did you know that knowing the different prerequisites to becoming a psychologist might make the difference in your Psychology app localization efforts?
 picture: ../blog4.jpg
 tags:
   - English
