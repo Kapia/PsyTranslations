@@ -60,19 +60,23 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_4 becoming a psychologist/index.html",
-    "revision": "2f40fbf630b319596f87aae435c33d12"
+    "revision": "dbbabfbbc15059aa0550d0eee9dfd6d6"
+  },
+  {
+    "url": "blog/blog_5 psychology translation what is at stake/index.html",
+    "revision": "d84699bf8eba04a31da4d363f413e371"
   },
   {
     "url": "blog/index.html",
-    "revision": "a1a37e3f6de89e44ba2656d6d84b4fd9"
+    "revision": "eed0b5fd2de1a18955b6c98e891a43ad"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "f0829e5fa776031602ef2a9b8ffc9637"
+    "revision": "1c7922744297748d25143f00da001b66"
   },
   {
     "url": "blog/tag/english/index.html",
-    "revision": "b080aba75303e407366b6b6e15a15e74"
+    "revision": "90d1e794eed8d381d6917484d5c4c451"
   },
   {
     "url": "blog/tag/localization/index.html",
@@ -80,11 +84,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/posts/index.html",
-    "revision": "6567884f9e993a256480d766d3b876b7"
+    "revision": "f4fef4e80983c07cbeac78a67bfb64a4"
   },
   {
     "url": "blog/tag/psychology/index.html",
-    "revision": "c5a5d5f555d6ee6347920a6ee5f5e2fa"
+    "revision": "acd745f00fbe8ceab1e29db6cfcc4d55"
   },
   {
     "url": "blog/tag/spanish/index.html",
@@ -93,6 +97,10 @@ self.__precacheManifest = [
   {
     "url": "blog/tag/terminology/index.html",
     "revision": "1d7c7d59eb08c408e5699726f38a919e"
+  },
+  {
+    "url": "blog/tag/translation/index.html",
+    "revision": "c97384cdf37c2fef047c89fab749a28e"
   },
   {
     "url": "blog/tag/where-the-clients-are/index.html",
@@ -153,6 +161,26 @@ self.__precacheManifest = [
   {
     "url": "blog4.jpg",
     "revision": "6de1ed00cb1d34b998e2a92c63ffa2fa"
+  },
+  {
+    "url": "blog5-1.jpg",
+    "revision": "569a207496e05bd4914e1e326b477903"
+  },
+  {
+    "url": "blog5-2.jpg",
+    "revision": "871632907605241ccda3e9219e81b7f9"
+  },
+  {
+    "url": "blog5-3.jpg",
+    "revision": "650f3429e599c113c54e9314d09140b2"
+  },
+  {
+    "url": "blog5-4.jpg",
+    "revision": "5a493a7b5871dca459e583133747bdcb"
+  },
+  {
+    "url": "blog5.jpg",
+    "revision": "c3ff005dd50d634ce310b34b71f4cf8e"
   },
   {
     "url": "brain-solid.svg",
