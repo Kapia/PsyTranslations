@@ -64,7 +64,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_5 psychology translation what is at stake/index.html",
-    "revision": "d84699bf8eba04a31da4d363f413e371"
+    "revision": "84c5cd8f69ee3126957b5227ed301fcf"
   },
   {
     "url": "blog/index.html",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "1c7922744297748d25143f00da001b66"
+    "revision": "e395167c548c4916e7436dddd7e3add5"
   },
   {
     "url": "blog/tag/english/index.html",
