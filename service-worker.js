@@ -72,7 +72,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "e395167c548c4916e7436dddd7e3add5"
+    "revision": "99ebc59323a76cf935cbeb8d84e03319"
   },
   {
     "url": "blog/tag/english/index.html",
@@ -221,6 +221,10 @@ self.__precacheManifest = [
   {
     "url": "globe-europe-solid.svg",
     "revision": "4d1e04dcd762d9a8b705c21787fcf406"
+  },
+  {
+    "url": "googlede2221d7eaa5996d.html",
+    "revision": "53842cf552d88bc6316ec9817d49fc35"
   },
   {
     "url": "graduation-cap-solid.svg",
