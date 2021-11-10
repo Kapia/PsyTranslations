@@ -10,12 +10,6 @@ tags:
   - Where the clients are
 ---
 
-<p align="center">
-    <a>
-        <strong>
-            A freelance translator at the ATP 2021 Conference: Is it worth it?
-        </strong>
-    </a>
 </p>
 <p>
     This is my first post in the <strong>“Where the clients are”</strong>
