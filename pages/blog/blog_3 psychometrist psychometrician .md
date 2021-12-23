@@ -31,14 +31,14 @@ tags:
 <li>Neurodevelopmental evaluations were conducted in Spanish and/or English by <strong>psychometricians</strong> blind to mothers’ TH levels.</li>
 </ul>
 <p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
-<p> <strong>¿En qué se diferencian un <em>psychometrician</em> y un <em>psychometrist</em>?</strong></p>
+<h1><p> <strong>¿En qué se diferencian un <em>psychometrician</em> y un <em>psychometrist</em>?</strong></p></h1>
 <p>Para aclarar este tema, empezaré por algunas definiciones.</p>
 <p>La entrada <em>psychometrician </em>en el Diccionario de Psicología de la American Psychological Association (APA, s.&nbsp;f.) nos da dos acepciones: (1) persona con conocimiento teórico de las técnicas de medición, capaz de diseñar, evaluar y mejorar los test psicológicos. </p>
 <p>De inmediato, podemos ver la relación con la definición del diccionario de la Real Academia Española (RAE, s.&nbsp;f.-a) para <em>psicómetra: «</em>especialista en psicometría» que, a su vez, se define como la disciplina que estudia la «medida de los fenómenos psíquicos» (RAE, s.&nbsp;f.-b). En el contexto español, no existe una carrera específica, sino que son psicólogos que luego se van especializando en esa disciplina (Hernández, 2021). </p>
 <p>En la segunda acepción de la APA (s.&nbsp;f.), nos hablan de una (2) persona formada para aplicar test psicológicos e interpretar sus resultados bajo la supervisión de un psicólogo colegiado y nos indican que también se les conoce como <em>psychometrists</em>. Pero aquí vemos que esta definición no tiene nada que ver con la definición de <em>psicómetra</em> que veíamos antes, ¿entonces cómo traducirlo?</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-2"><span></p>
-<p><strong>Sugerencias de traducción para <em>psychometrist</em></strong></p>
+<h1><p><strong>Sugerencias de traducción para <em>psychometrist</em></strong></p></h1>
 <p>Con todo eso en mente, me animo a dejar unas sugerencias de posibles traducciones y te dejo también este diagrama que creo que puede ayudarte a tomar decisiones.</p>
 <ul>
 
@@ -72,7 +72,7 @@ tags:
 <p>Dejando de lado el tema lingüístico, a continuación, te explicaré qué es exactamente un <em>psychometrist </em>y qué competencias tiene.</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
-<p><strong>Contexto particular de Estados Unidos</strong></p>
+<h1><p><strong>Contexto particular de Estados Unidos</strong></p></h1>
 <p>Parece que este enredo proviene de las funciones que los distintos profesionales desempeñan en Estados Unidos en la psicología y campos afines, para las que no suele haber equivalencia en países hispanohablantes.</p>
 <p>Allí, un psicólogo colegiado (<em>licensed psychologist</em>, que está autorizado para ejercer legalmente en un estado y tiene la licencia para hacerlo) tiene que transitar un camino mucho más tortuoso que en el caso de Europa y la mayor parte de Hispanoamérica (Dittman, 2004).</p>
 
@@ -101,7 +101,7 @@ tags:
 <p>Pero si un <em>psychometrist </em>aplica pruebas, ¿no viene a ser lo mismo que un psicólogo?</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-4"><span></p>
-<p><strong>Diferencias entre <em>psychometrist </em>y psicólogo</strong></p>
+<h1><p><strong>Diferencias entre <em>psychometrist </em>y psicólogo</strong></p></h1>
 
 <p>En este caso, me refiero a lo que podemos entender en Hispanoamérica y en España por psicólogo: profesionales con estudios superiores en psicología, ya sean estos una licenciatura, grado o pregrado, según se le conozca en cada país.</p>
 
@@ -115,7 +115,7 @@ tags:
 <p>Sin embargo, es posible que en algunos países o en otras ramas de la psicología exista algún tipo de figura que sea equiparable a la de <em>psychometrist </em>(alguien que con estudios inferiores a los de un psicólogo pueda aplicar estas pruebas bajo supervisión de este). En ese caso te toca a ti averiguarlo y decidir si tu texto realmente te pide tanto detalle.</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-5"><span></p>
-<p><strong>Para terminar</strong></p>
+<h1><p><strong>Para terminar</strong></p></h1>
 <p>En esta entrada buscaba aclarar la diferencia entre <em>psychometrician</em> y <em>psychometrist</em>, y si leíste hasta aquí ya habrás visto que no era tan fácil como parecía al principio. </p>
 <ul>
 <li><em>Psychometrician</em> no tiene un solo significado y debes tener claro el contexto de partida para decidir qué opción es la mejor. </li>
@@ -125,7 +125,7 @@ tags:
 <p> Finalmente, si te ha gustado esta entrada y quieres aprender más términos confusos de psicología, te recomiendo mi entrada sobre las <a href="https://psytranslations.com/blog/50_diferencias/">50 parejas de términos de psicología</a> que más se confunden. ¡No tiene pierde!</p>
 
 <p></p>
-<p><strong>Referencias</strong></p>
+<h1><p><strong>Referencias</strong></p></h1>
 <p style="padding-left: 30px;">American Educational Research Association, American Psychological Association, &amp; National Council on Measurement in Education&nbsp;(2014). <em>Standards for Educational and Psychological Testing: National Council on Measurement in Education. </em>American Educational Research Association. <a href="https://www.apa.org/gradpsych/2004/01/get-licensed">https://www.apa.org/gradpsych/2004/01/get-licensed</a></p>
 <p style="padding-left: 30px;">American Psychological Association (s.&nbsp;f.). Psychometrician. En <em>APA Dictionary of Psychology</em>. Recuperado el 18 de agosto de 2021 de <a href="https://dictionary.apa.org/psychometrician">https://dictionary.apa.org/psychometrician</a></p>
 <p style="padding-left: 30px;">Dittman, M. (2004). What you need to know to get licensed. <em>gradPSYCH, 2</em>(1). <a href="https://www.apa.org/gradpsych/2004/01/get-licensed">https://www.apa.org/gradpsych/2004/01/get-licensed</a></p>

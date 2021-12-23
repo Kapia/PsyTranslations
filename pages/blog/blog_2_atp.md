@@ -58,7 +58,7 @@ stakeholders, and understand the main issues of the industry. After all,    <str
 
 
 <p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
-    <strong>What is the ATP</strong>
+    <h1><strong>What is the ATP</strong></h1>
 </p>
       The
     <a href="https://www.testpublishers.org/our-mission" target="_blank">
@@ -76,7 +76,7 @@ from the subject matter experts (SMEs) and psychometricians who design the tests
 </p>
 <p>
 <p  style="scroll-margin-top: 50px" id="anchor-2"><span></p>
-    <strong>Who goes to the ATP Conference?</strong>
+    <h1><strong>Who goes to the ATP Conference?</strong></h1>
 </p>
 <p>
     The ATP organizes several events throughout the year: some
@@ -94,7 +94,7 @@ page! Of course, not every organization from this list will attend, but it's a g
 </p>
 <p>
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
-    <a><strong>ATP Conference highlights</strong></a>
+   <h1><a><strong>ATP Conference highlights</strong></a></h1>
 </p>
 <p>
 There were many highlights, but the key discussion topic was the industry upheaval as a result of the COVID-19 pandemic. Testing companies have had to adapt to remote testing almost overnight in order to continue providing their
@@ -113,7 +113,7 @@ There were many highlights, but the key discussion topic was the industry upheav
 </p>
 <p>
 <p  style="scroll-margin-top: 50px" id="anchor-4"><span></p>
-    <a><strong>What did I learn?</strong></a>
+    <h1><a><strong>What did I learn?</strong></a></h1>
 </p>
 <p>
     Two topics particularly piqued my interest:
@@ -168,7 +168,7 @@ o I saw how easy changes can make a difference for certain conditions, like usin
 </p>
 <p>
 <p  style="scroll-margin-top: 50px" id="anchor-5"><span></p>
-    <strong>What’s in it for a freelance translator?</strong>
+    <h1><strong>What’s in it for a freelance translator?</strong></h1>
 </p>
 <p>
 There were some topics of general interest even if you don't know much about the industry, but they
@@ -181,7 +181,7 @@ as an opportunity to learn more about the industry, to get to know the issues yo
     (like in my case).
 </p>
 <p>
-    <u>Is it too technical?</u>
+    <h2>Is it too technical?</h2>
 </p>
 <p>
     I don’t think so. There are some talks that go into the specifics of psychometrics, and
@@ -195,7 +195,7 @@ brief and dynamic discussions; as a result, it wasn’t monotonous and it was ea
     them.
 </p>
 <p>
-    <u>How was the networking?</u>
+    <h2>How was the networking?</h2>
 </p>
 <p>
     They had their own app with an integrated feed. That way,
@@ -209,7 +209,7 @@ brief and dynamic discussions; as a result, it wasn’t monotonous and it was ea
 </p>
 <p>
 <p  style="scroll-margin-top: 50px" id="anchor-6"><span></p>
-    <strong>My top takeaway</strong>
+    <h1><strong>My top takeaway</strong></h1>
 </p>
 <ul type="disc">
     <li>
@@ -227,9 +227,8 @@ brief and dynamic discussions; as a result, it wasn’t monotonous and it was ea
     </li>
 </ul>
 <p>
-    <strong>In summary</strong>
-    <br/>
-</p>
+    <h1><strong>In summary</strong></h1>
+    </p>
 <p>
     The ATP 2021 Conference was a great experience for me. I
 now have a better understanding of the whole assessment process and

@@ -19,7 +19,7 @@ tags:
 <li><b><a href="#anchor-4">Ignoring the negative consequences</a></b></li>
 <p><strong><u>&nbsp;</u></strong></p>
 <p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
-<p><strong>Asking a bilingual colleague</strong></p>
+<h1><p><strong>Asking a bilingual colleague</strong></p></h1>
 <p><em>&ldquo;What would a translator do for me? I can ask my colleague; she knows English and Spanish.&rdquo;</em></p>
 
 <p align="center">
@@ -39,7 +39,7 @@ tags:
 <p>And to clarify that &ldquo;translator&rdquo; doesn&rsquo;t mean a bilingual researcher or colleague, the <a href="https://www.intestcom.org/files/guideline_test_adaptation_2ed.pdf">ITC</a> guidelines for tests, the <a href="https://pubmed.ncbi.nlm.nih.gov/15804318/">ISPOR</a>&rsquo;s principles of good practice for patient-reported outcomes, and the <a href="https://ccsg.isr.umich.edu/wp-content/uploads/2020/02/CCSG_Guidelines_Archive_2010_Version.pdf">CCSG</a>&rsquo;s guidelines for cross-cultural surveys, among others, mention &ldquo;professional translators&rdquo;.&nbsp;&nbsp;</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-2"><span></p>
-<p><strong>Using automatic translation</strong></p>
+<h1><p><strong>Using automatic translation</strong></p></h1>
 <p><em>&ldquo;Why not use Google Translate and just check it afterward?&rdquo;</em></p>
 
 <p align="center">
@@ -60,7 +60,7 @@ tags:
 </ul>
 <p>&nbsp;</p>
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
-<p><strong>Fearing the technical aspect won&rsquo;t be right</strong></p>
+<h1><p><strong>Fearing the technical aspect won&rsquo;t be right</strong></p></h1>
 <p><em>&ldquo;I&rsquo;m not confident that a translator will 'get' my specialized psychology text. I&rsquo;d rather leave it to one of my colleagues.&rdquo;</em></p>
 
 <p align="center">
@@ -73,7 +73,7 @@ tags:
 <p>And if you&rsquo;re still unsure, you can involve your bilingual expert as a reviewer of the technical content by putting them in touch with the translator.</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-4"><span></p>
-<p><strong>Ignoring the negative consequences</strong></p>
+<h1><p><strong>Ignoring the negative consequences</strong></p></h1>
 <p><em>&ldquo;So what&rsquo;s the big deal? What could possibly go wrong?&rdquo;</em></p>
 
 <p align="center">

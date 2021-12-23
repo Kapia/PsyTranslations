@@ -19,7 +19,7 @@ tags:
 <p><strong> </strong></p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
-<p><strong>The importance of knowing your target</strong></p>
+<h1><p><strong>The importance of knowing your target</strong></p></h1>
 <p><em>Imagine you have a website in the US that offers a matching service: you match psychologists and mental health professionals with clients. In the US, you know what credentials to ask for. Now you start </em><em>offering a similar service in some Spanish-speaking countries. Let&rsquo;s take Spain and Colombia as examples.</em></p>
 <p><em>You&rsquo;ve been working with your team for months now, everything is ready, you already have psychologists on your website, and you&rsquo;re attracting clients to match them with. But you start getting complaints because some psychologists are not acting in an ethical way or clients are dissatisfied. After an investigation, you discover some of the psychologists you recruited for your website are not licensed professionals and are not regulated by a recognized ethical board. You wonder how you could have overlooked this.</em></p>
 <p>With the COVID-19 pandemic, there&rsquo;s been a rise in platforms and websites that find and recommend therapists for online sessions, but if you don&rsquo;t know the basic requirements for a psychologist to see patients, how can you spot when you&rsquo;re letting unqualified and unlicensed practitioners on your website? Recommending shady therapists will damage your image and reputation.</p>
@@ -28,7 +28,7 @@ tags:
 <p>I&rsquo;ll also mention specific differences with the process of <a href="https://www.apa.org/gradpsych/2004/01/get-licensed">becoming a licensed psychologist in the United States</a>.</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-2"><span></p>
-<p><strong>Overview: The process of becoming a licensed psychologist</strong></p>
+<h1><p><strong>Overview: The process of becoming a licensed psychologist</strong></p></h1>
 <p>This is a summary of the process (I go into more detail in the relevant sections). Note: I only cover the basic requirements to practice as a psychologist (there are other administrative and tax requirements for healthcare or self-employed professionals that I won&rsquo;t be mentioning here).</p>
 <table>
 <tbody>
@@ -66,9 +66,9 @@ tags:
 </table>
 
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
-<p><strong>Steps to becoming a licensed psychologist in Spain and Colombia</strong></p>
+<h1><p><strong>Steps to becoming a licensed psychologist in Spain and Colombia</strong></p></h1>
 <p>Generally, in Spanish-speaking countries, your undergraduate degree is the decisive factor. Whether you&rsquo;re in Spain or Colombia, to become a licensed psychologist, you need to start with a bachelor&rsquo;s degree in psychology. You won&rsquo;t be able to practice psychology if you have a bachelor&rsquo;s degree in anthropology (for example), even if you have a master&rsquo;s and a Ph.D. in psychology. In fact, you probably wouldn&rsquo;t even be able to sign up for these graduate studies without a bachelor&rsquo;s in psychology.</p>
-<p><b>Spain</b></p>
+<h2><p><b>Spain</b></p></h2>
 
 <p align="center">
   <img src="../../blog4-1.png " alt="Path to becoming a licensed psychologist and healthcare professional in Spain">
@@ -76,7 +76,7 @@ tags:
 <p align="center">
   <i>Path to becoming a licensed psychologist and healthcare professional in Spain</i>
 
-<p><u>Step 1. Get a bachelor&rsquo;s</u></p>
+<p><ul>Step 1. Get a bachelor&rsquo;s</p>
 <p>Nowadays, and as part of the Bologna Process, the undergraduate degree roughly equivalent to a bachelor&rsquo;s degree is the &ldquo;grado&rdquo; of 4 years. So the degree would be a &ldquo;grado de Psicolog&iacute;a&rdquo;, which is offered in public and private universities. You can also choose optional subject groups (&ldquo;itinerarios&rdquo;) that let you graduate with a special mention (similar to a minor). For example, the <a href="https://www.uma.es/grado-en-psicologia/info/9547/plan-de-estudios/">Universidad de M&aacute;laga</a> offers minors in psychosocial intervention, psychoeducative intervention, and clinical psychology. For now, this doesn&rsquo;t have a huge impact, but the minor you choose might be decisive in accessing specific master&rsquo;s programs in the future.</p>
 <p><strong>You&rsquo;re now a psychologist!</strong> This is all you need to be considered a psychologist and this is enough to work in research, industrial psychology, and other non-clinical fields.</p>
 <p><u>Step 2. Get a practice license</u></p>
@@ -112,7 +112,7 @@ tags:
 <p>For this, you need to access a position that combines a 4-year internship and residency in the public health system (&ldquo;psic&oacute;logo interno residente&rdquo;, PIR). Getting a place on this program is no mean feat. Candidates spend approximately <a href="https://academiapir.com/preparacion-pir-como-preparar-unas-oposiciones/">2 years</a> of full-time study preparing for the highly competitive exam, but are still not guaranteed success as only a small number of places are available. For example, in 2020, there were <a href="https://www.redaccionmedica.com/secciones/eir-y-mas-residentes/admitidos-al-examen-pir-2020-una-plaza-por-cada-24-aspirantes-aceptados--2264">4,439 examinees for 182 positions</a> (in medicine, there were 16,176 for 7,512 positions).</p>
 <p>If your effort pays off and you become a PIR, you&rsquo;ll study and practice in the public system for 4 years, at the end of which you&rsquo;ll be a psychologist specialized in clinical psychology (&ldquo;psic&oacute;logo especialista en psicolog&iacute;a cl&iacute;nica&rdquo;, PEPC). With this, you can practice in the public and private system and there are no limitations.<strong> You&rsquo;re now a licensed psychologist and healthcare professional!&nbsp;</strong></p>
 
-<p><b>Colombia</b></p>
+<h2><p><b>Colombia</b></p></h2>
 
 <p align="center">
   <img src="../../blog4-4.png " alt="Path to becoming a licensed psychologist and healthcare professional in Colombia">
@@ -120,8 +120,7 @@ tags:
 <p align="center">
   <i>Path to becoming a licensed psychologist and healthcare professional in Colombia</i>
 
-<p><u>&nbsp;</u></p>
-<p><u>Step 1. Get a bachelor&rsquo;s</p></u>
+<ul><p><u>Step 1. Get a bachelor&rsquo;s</p></u>
 <p>This is similar to the process in Spain, but more straightforward. In Colombia, the rough equivalent to a bachelor&rsquo;s degree is a &ldquo;pregrado&rdquo;, and it involves 5 years of study. On completion of your &ldquo;pregrado en  Psicolog&iacute;a&rdquo;, the title you get is psychologist (&ldquo;psic&oacute;logo&rdquo; or &ldquo;psic&oacute;loga&rdquo;).</p>
 <p><strong>You&rsquo;re now a psychologist!&nbsp;</strong>With this alone, you can&rsquo;t work as a psychologist in any field. You need to complete the second step.</p>
 <p><u>Step 2. Get a practice license</p></u>
@@ -133,8 +132,9 @@ tags:
 <p align="center">
   <i>Example: my license card in Colombia</i>
 
-<p>Additionally, you may decide to be an active participant of the licensing board (and become a &ldquo;colegiado&rdquo;), but this doesn&rsquo;t get you any additional official benefits, so isn&rsquo;t absolutely essential. This is a yearly payment.</p>
-<p><strong>Conclusions</strong></p>
+<p>Additionally, you may decide to be an active participant of the licensing board (and become a &ldquo;colegiado&rdquo;), but this doesn&rsquo;t get you any additional official benefits, so isn&rsquo;t absolutely essential. This is a yearly payment.</p></ul>
+
+<p><h1><strong>Conclusions</strong></h1></p>
 <p>If you want to market your services and products to cultures that are different from yours, you or someone on your team need to have a basic grasp of the differences, as education and health systems differ dramatically from one country to another.</p>
 <p>In psychology, as a profession with a health focus in most cases, differences can be especially huge. If you&rsquo;re looking to localize your service or product in the psychology sector, you need to count on someone who knows the ins and outs of this profession and what applies to your new target market.</p>
 <p>If you&rsquo;re planning to translate your psychology-related app/web/project and have questions about whether you need to adapt some of your content, don&rsquo;t hesitate to <a href="https://psytranslations.com/contact/">contact me</a>! We can discuss your queries and I&rsquo;d be delighted to help you identify the best approach for your specific needs.</p>
