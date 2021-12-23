@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "90e1d0663581ec2e80bae14c6b93c7d0"
+    "revision": "0e3e6453214b10fd056002a5a60991a3"
   },
   {
     "url": "asocial_meme.jpg",
@@ -48,51 +48,59 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/50_diferencias/index.html",
-    "revision": "777abf52d9bb1847f8350a00f0f33177"
+    "revision": "3a373f6cecb55323387c490cdd090046"
   },
   {
     "url": "blog/blog_2_atp/index.html",
-    "revision": "912b2bcbd7b30e3e4b44608ad1ec7961"
+    "revision": "b9d89b4027be2cebcf7e4cdef6ae1f75"
   },
   {
     "url": "blog/blog_3 psychometrist psychometrician /index.html",
-    "revision": "f8b7b4b625e367f772a8742ba54c9f97"
+    "revision": "768efd456b9c7594a7d7a6aaa9d298c7"
   },
   {
     "url": "blog/blog_4 becoming a psychologist/index.html",
-    "revision": "dbbabfbbc15059aa0550d0eee9dfd6d6"
+    "revision": "b81d02bb230cb6532511ec241174ffdf"
   },
   {
-    "url": "blog/blog_5 psychology translation what is at stake/index.html",
-    "revision": "84c5cd8f69ee3126957b5227ed301fcf"
+    "url": "blog/blog_5 psychology translation what is at stake copy/index.html",
+    "revision": "449ba09a9d340cfc29fb9d85a2d55af7"
+  },
+  {
+    "url": "blog/blog_6_DSM-V_o_DSM-5_siglas/index.html",
+    "revision": "bfd29cd549c28b50a1968c253fa8e30a"
   },
   {
     "url": "blog/index.html",
-    "revision": "eed0b5fd2de1a18955b6c98e891a43ad"
+    "revision": "84ffe5e2856fc4a335c4df2f865edeb3"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "ae427652220640d1bb66f3af1757c450"
+    "revision": "8f2bdff76538f6146b5eeb28ce33ec26"
   },
   {
     "url": "blog/tag/english/index.html",
-    "revision": "90d1e794eed8d381d6917484d5c4c451"
+    "revision": "50c206ce9b42d402edb1b7265f8e391e"
   },
   {
     "url": "blog/tag/localization/index.html",
     "revision": "54706e746b5024306a8854bf8cf69794"
   },
   {
+    "url": "blog/tag/ortotipography/index.html",
+    "revision": "14cd2463179fc18c6f154d44ee22497f"
+  },
+  {
     "url": "blog/tag/posts/index.html",
-    "revision": "f4fef4e80983c07cbeac78a67bfb64a4"
+    "revision": "572780b2274da342c27d256e9b65f45f"
   },
   {
     "url": "blog/tag/psychology/index.html",
-    "revision": "acd745f00fbe8ceab1e29db6cfcc4d55"
+    "revision": "2487d6c2bb56a527e0a3e24536b0fe90"
   },
   {
     "url": "blog/tag/spanish/index.html",
-    "revision": "8da59cfe0dcbed4c8aa8f3f43430477c"
+    "revision": "5163975935ee93e6d4bafc855c95f525"
   },
   {
     "url": "blog/tag/terminology/index.html",
@@ -100,7 +108,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/translation/index.html",
-    "revision": "c97384cdf37c2fef047c89fab749a28e"
+    "revision": "73c36f3ad7d50ec709da35ca1211668a"
   },
   {
     "url": "blog/tag/where-the-clients-are/index.html",
@@ -164,7 +172,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog5-1.jpg",
-    "revision": "569a207496e05bd4914e1e326b477903"
+    "revision": "9b536e28f3201a50d059b527a7848110"
   },
   {
     "url": "blog5-2.jpg",
@@ -172,15 +180,31 @@ self.__precacheManifest = [
   },
   {
     "url": "blog5-3.jpg",
-    "revision": "650f3429e599c113c54e9314d09140b2"
+    "revision": "9b8cf35471a0f28b859758bd37bb97e5"
   },
   {
     "url": "blog5-4.jpg",
-    "revision": "5a493a7b5871dca459e583133747bdcb"
+    "revision": "94e76d342e2eadbb5000a9b1357c7891"
   },
   {
     "url": "blog5.jpg",
     "revision": "c3ff005dd50d634ce310b34b71f4cf8e"
+  },
+  {
+    "url": "blog6-1.jpg",
+    "revision": "1c7f12646fcecc64c5683bf57621a4c3"
+  },
+  {
+    "url": "blog6-2.jpg",
+    "revision": "17c61923b2b9735efda9b502fe1395c8"
+  },
+  {
+    "url": "blog6-3.jpg",
+    "revision": "79cc656e1ee4c09f1efd4d3785534142"
+  },
+  {
+    "url": "blog6.jpg",
+    "revision": "2c8c86375a4f01e8a26ace4921c6b2e6"
   },
   {
     "url": "brain-solid.svg",
