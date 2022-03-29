@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "0e3e6453214b10fd056002a5a60991a3"
+    "revision": "d93ddfbf9f16ac2562b3fa8fb9ea9438"
   },
   {
     "url": "asocial_meme.jpg",
@@ -68,19 +68,31 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_6_DSM-V_o_DSM-5_siglas/index.html",
-    "revision": "bfd29cd549c28b50a1968c253fa8e30a"
+    "revision": "f80fead66d75dc0f219ff54b9379ff7e"
+  },
+  {
+    "url": "blog/blog_7_I_Psychology_translation_as_a_specialism/index.html",
+    "revision": "512226682ed8304b64c7b534589db92b"
+  },
+  {
+    "url": "blog/blog_8_II_Paths_to_specialization_Qualified_psychology_translators/index.html",
+    "revision": "faecfe8adcddf4abb648777e0a260540"
+  },
+  {
+    "url": "blog/blog_9_III_How to specialize through self-learning/index.html",
+    "revision": "1337c66f4d300db778df6ed2aaf18514"
   },
   {
     "url": "blog/index.html",
-    "revision": "84ffe5e2856fc4a335c4df2f865edeb3"
+    "revision": "a3311afbcac26d594564668033185539"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "8f2bdff76538f6146b5eeb28ce33ec26"
+    "revision": "92233d1183d67d7c7a7467cf8cd100e1"
   },
   {
     "url": "blog/tag/english/index.html",
-    "revision": "50c206ce9b42d402edb1b7265f8e391e"
+    "revision": "bb4a119b6860148b9dd54772513679ce"
   },
   {
     "url": "blog/tag/localization/index.html",
@@ -92,11 +104,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/posts/index.html",
-    "revision": "572780b2274da342c27d256e9b65f45f"
+    "revision": "3bc29d9da873615d0bb50b61872bf071"
   },
   {
     "url": "blog/tag/psychology/index.html",
-    "revision": "2487d6c2bb56a527e0a3e24536b0fe90"
+    "revision": "4c89bf142b235e2827999b9b42b0a093"
   },
   {
     "url": "blog/tag/spanish/index.html",
@@ -108,7 +120,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/translation/index.html",
-    "revision": "73c36f3ad7d50ec709da35ca1211668a"
+    "revision": "c2b43a8ddf6b247efb60911f29843909"
   },
   {
     "url": "blog/tag/where-the-clients-are/index.html",
@@ -207,6 +219,46 @@ self.__precacheManifest = [
     "revision": "2c8c86375a4f01e8a26ace4921c6b2e6"
   },
   {
+    "url": "blog7-1.jpg",
+    "revision": "fff41778966aa8bbc952556ea66a2faa"
+  },
+  {
+    "url": "blog7-2.jpg",
+    "revision": "865a6fe7b5d2d022b12938add9cbdab5"
+  },
+  {
+    "url": "blog7.jpg",
+    "revision": "9343e4477c9014814f5045d2068da3a7"
+  },
+  {
+    "url": "blog8-1.jpg",
+    "revision": "147275b3684d6fcfbf9cd3c3f3713b76"
+  },
+  {
+    "url": "blog8-2.jpg",
+    "revision": "f8f6cf567c9b30801382c557a4435820"
+  },
+  {
+    "url": "blog8.jpg",
+    "revision": "1256531c4db04a53d0acf4adcc2ca2e3"
+  },
+  {
+    "url": "blog9-1.jpg",
+    "revision": "38593569028b9aad942f583abca0f331"
+  },
+  {
+    "url": "blog9-2.jpg",
+    "revision": "645df85eab1ba05c79d705717e9beb81"
+  },
+  {
+    "url": "blog9-3.jpg",
+    "revision": "c378cff3ff6dd88f41b07f9d157903f4"
+  },
+  {
+    "url": "blog9.jpg",
+    "revision": "738baf574ded96447b641556f05cdce9"
+  },
+  {
     "url": "brain-solid.svg",
     "revision": "2306eeaa636ef6f08772fc2cf309afde"
   },
@@ -225,6 +277,10 @@ self.__precacheManifest = [
   {
     "url": "clientes4.png",
     "revision": "e3e8d3d8a797c66c0274e18c2830ddd6"
+  },
+  {
+    "url": "clientes5.png",
+    "revision": "1e59558f951d581be4fa6158a6ba6664"
   },
   {
     "url": "clipboard-check-solid.svg",
@@ -284,7 +340,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "35d9e3a9a4d710057ef9b7aa2a9fd9d2"
+    "revision": "727a98797fbab9883fdf236265d3e0ac"
   },
   {
     "url": "language-solid.svg",
