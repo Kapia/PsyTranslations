@@ -72,11 +72,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_7_I_Psychology_translation_as_a_specialism/index.html",
-    "revision": "512226682ed8304b64c7b534589db92b"
+    "revision": "06f993fe0c479ac2b6197ea4eaf44dbf"
   },
   {
     "url": "blog/blog_8_II_Paths_to_specialization_Qualified_psychology_translators/index.html",
-    "revision": "faecfe8adcddf4abb648777e0a260540"
+    "revision": "7787c40b8dd15caf480ce5e69ed58061"
   },
   {
     "url": "blog/blog_9_III_How to specialize through self-learning/index.html",
@@ -84,11 +84,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "a3311afbcac26d594564668033185539"
+    "revision": "1f6ee18ce92b4de896e1bc35fa72e343"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "92233d1183d67d7c7a7467cf8cd100e1"
+    "revision": "3c405bc986a5e871e0affca1ab8d7a9c"
   },
   {
     "url": "blog/tag/english/index.html",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/posts/index.html",
-    "revision": "3bc29d9da873615d0bb50b61872bf071"
+    "revision": "436144945b00749c7732e56f81297df4"
   },
   {
     "url": "blog/tag/psychology/index.html",
