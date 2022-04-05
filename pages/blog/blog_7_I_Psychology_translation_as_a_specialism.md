@@ -72,7 +72,7 @@ tags:
 <p>This is part of the Psychology Translation miniseries:</p>
 <ul>
 <li><strong>Psychology translations (I). Psychology translation as a specialism <span style="color: #008080;">YOU&rsquo;RE HERE!</span></strong></li>
-<li><strong>Psychology translations (II). Paths to specialization: Qualified psychology translators</strong></li>
+<li><strong><a href= "https://psytranslations.com/blog/blog_8_II_Paths_to_specialization_Qualified_psychology_translators/">Psychology translations (II). Paths to specialization: Qualified psychology translators</a></strong></li>
 <li><strong>Psychology translations (III). How to specialize through self-learning</strong></li>
 </ul>
 <p>&nbsp;</p>
