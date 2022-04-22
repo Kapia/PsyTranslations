@@ -68,31 +68,19 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_6_DSM-V_o_DSM-5_siglas/index.html",
-    "revision": "f80fead66d75dc0f219ff54b9379ff7e"
-  },
-  {
-    "url": "blog/blog_7_I_Psychology_translation_as_a_specialism/index.html",
-    "revision": "06f993fe0c479ac2b6197ea4eaf44dbf"
-  },
-  {
-    "url": "blog/blog_8_II_Paths_to_specialization_Qualified_psychology_translators/index.html",
-    "revision": "7787c40b8dd15caf480ce5e69ed58061"
-  },
-  {
-    "url": "blog/blog_9_III_How to specialize through self-learning/index.html",
-    "revision": "1337c66f4d300db778df6ed2aaf18514"
+    "revision": "bfd29cd549c28b50a1968c253fa8e30a"
   },
   {
     "url": "blog/index.html",
-    "revision": "1f6ee18ce92b4de896e1bc35fa72e343"
+    "revision": "84ffe5e2856fc4a335c4df2f865edeb3"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "3c405bc986a5e871e0affca1ab8d7a9c"
+    "revision": "52e0c074cf10860bb76d814a0e275865"
   },
   {
     "url": "blog/tag/english/index.html",
-    "revision": "bb4a119b6860148b9dd54772513679ce"
+    "revision": "50c206ce9b42d402edb1b7265f8e391e"
   },
   {
     "url": "blog/tag/localization/index.html",
@@ -104,11 +92,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/posts/index.html",
-    "revision": "436144945b00749c7732e56f81297df4"
+    "revision": "572780b2274da342c27d256e9b65f45f"
   },
   {
     "url": "blog/tag/psychology/index.html",
-    "revision": "4c89bf142b235e2827999b9b42b0a093"
+    "revision": "2487d6c2bb56a527e0a3e24536b0fe90"
   },
   {
     "url": "blog/tag/spanish/index.html",
@@ -120,7 +108,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/translation/index.html",
-    "revision": "c2b43a8ddf6b247efb60911f29843909"
+    "revision": "73c36f3ad7d50ec709da35ca1211668a"
   },
   {
     "url": "blog/tag/where-the-clients-are/index.html",
