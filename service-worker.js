@@ -80,23 +80,31 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/blog_9_III_How_to_specialize_through_self-learning/index.html",
-    "revision": "c8ec0004b8f4ab86236ca133da2f1a8d"
+    "revision": "3e72af9b009e45fba508637c15971ae8"
+  },
+  {
+    "url": "blog/blog-10-what-is-neuropsychology-translation/index.html",
+    "revision": "4b878f3a5083db508962275c3ffda7ef"
   },
   {
     "url": "blog/index.html",
-    "revision": "2541453838678c3049bb0ebe153adc3e"
+    "revision": "b28681e177706abd695d2d2e82cc9957"
   },
   {
     "url": "blog/tag/all/index.html",
-    "revision": "946a498fee00657525b30ec8016e8bd1"
+    "revision": "684b3a6915929e84deca57394f890239"
   },
   {
     "url": "blog/tag/english/index.html",
-    "revision": "d6f4affdf66efda560eca385d4af1477"
+    "revision": "7e085f15a145163b072ca62f08e7fd90"
   },
   {
     "url": "blog/tag/localization/index.html",
     "revision": "54706e746b5024306a8854bf8cf69794"
+  },
+  {
+    "url": "blog/tag/neuropsychology/index.html",
+    "revision": "754987cd27bf09206e18eeb7ade93591"
   },
   {
     "url": "blog/tag/ortotipography/index.html",
@@ -104,11 +112,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/posts/index.html",
-    "revision": "788752e08e1fc2a5fdf87796b3b7e0bd"
+    "revision": "1ee8b24b18490e4b55247a1375a82067"
   },
   {
     "url": "blog/tag/psychology/index.html",
-    "revision": "e8cd6e25d575bc32e1d693817f0b785e"
+    "revision": "7706d6ac3e0132005f039c1abfcaa4d8"
   },
   {
     "url": "blog/tag/spanish/index.html",
@@ -120,7 +128,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tag/translation/index.html",
-    "revision": "3f325b2f34cac84d4f7171397c2c326c"
+    "revision": "2499ab377b0ac7f92750c96ff7e91d7e"
   },
   {
     "url": "blog/tag/where-the-clients-are/index.html",
@@ -129,6 +137,22 @@ self.__precacheManifest = [
   {
     "url": "blog1.jpg",
     "revision": "6871894ef357d889d41a138f787bfe5c"
+  },
+  {
+    "url": "blog10-1.jpg",
+    "revision": "16fb98e6118e9b251c63a417f143a1e7"
+  },
+  {
+    "url": "blog10-2.jpg",
+    "revision": "271611d281f8b920b527100620736f2e"
+  },
+  {
+    "url": "blog10-3.jpg",
+    "revision": "2749e2d4806a6b9368c44d9eff54f2ec"
+  },
+  {
+    "url": "blog10.jpg",
+    "revision": "ee20f49650a1d455bf048f3ae1cd4f68"
   },
   {
     "url": "blog2-1.jpg",
@@ -220,11 +244,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog7-1.jpg",
-    "revision": "fff41778966aa8bbc952556ea66a2faa"
+    "revision": "2f0202d34dd35a91c33c4c0ed02a14b3"
   },
   {
     "url": "blog7-2.jpg",
-    "revision": "865a6fe7b5d2d022b12938add9cbdab5"
+    "revision": "77de9a93ef2066cfd8ae20d2ed542fed"
   },
   {
     "url": "blog7.jpg",
@@ -232,11 +256,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog8-1.jpg",
-    "revision": "147275b3684d6fcfbf9cd3c3f3713b76"
+    "revision": "0e2989dc5d6307051b76da7a6522638f"
   },
   {
     "url": "blog8-2.jpg",
-    "revision": "f8f6cf567c9b30801382c557a4435820"
+    "revision": "67d3b55a40212b32c64407d80af098ea"
   },
   {
     "url": "blog8.jpg",
@@ -252,7 +276,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog9-3.jpg",
-    "revision": "c378cff3ff6dd88f41b07f9d157903f4"
+    "revision": "058a3bf69344c34bb54412a856f119fc"
   },
   {
     "url": "blog9.jpg",
@@ -341,6 +365,10 @@ self.__precacheManifest = [
   {
     "url": "index.html",
     "revision": "727a98797fbab9883fdf236265d3e0ac"
+  },
+  {
+    "url": "karol small.jpg",
+    "revision": "095c7ab8f2011824bc254e7422afbc6e"
   },
   {
     "url": "language-solid.svg",
