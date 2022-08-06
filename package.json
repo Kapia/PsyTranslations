@@ -12,11 +12,13 @@
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
+    "build2": "npx @11ty/eleventy",
     "test": "echo \"This template does not include a test runner by default.\" && exit 1",
     "lint": "prettier --write .",
     "update:deps": "yarn upgrade-interactive --latest && yarn upgrade",
     "update:cssdb": "npx browserslist@latest --update-db",
     "css-build": "node-sass --omit-source-map-url sass/mystyles.scss assets/css/vendors/mystyles.css",
+    "css-build2": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
     "css-watch": "npm run css-build -- --watch"
   },
   "browserslist": [
