@@ -35,7 +35,7 @@ module.exports = function (eleventyConfig) {
     './static': '.',
   })
 
-  eleventyConfig.addPassthroughCopy('css');
+  eleventyConfig.addPassthroughCopy('css')
 
   /**
    * Add filters

@@ -10,7 +10,6 @@ tags:
   - Terminology
 ---
 
-
 <p><em><strong>**Note for non-Spanish speakers:</strong> This entry is about the differences between the terms “psychometrician” and “psychometrist” and how both should not be translated as “psicómetra” in Spanish, like sometimes it’s suggested. Please check suggestions for translation in <b><a href="#anchor-2">this</b></a> section.</em></p>
 <hr />
 
@@ -90,7 +89,6 @@ tags:
 </p>
 <p align="center">
   <i>Niveles educativos de psicólogos en Estados Unidos (Fuente: Lin et al., 2017)</i>
-
 
 <p>Por lo tanto, aunque la demanda para las evaluaciones que conllevan aplicar e interpretar estos test es muy grande, quienes pueden ofrecerlos son bastante pocos en comparación. </p>
 <p>Aquí es donde entra en juego el <em>psychometrist</em>: persona que únicamente tiene un grado o un máster y se puede encargar de recibir a los pacientes, aplicar y corregir las pruebas y, según el estado, interpretarlas (National Association of Psychometrist, 2016). Todo lo anterior bajo la supervisión de un psicólogo colegiado, que se encarga de elegir los test para el caso, interpretar los resultados, dar el visto bueno o redactar el informe, diagnosticar o cualquier otra tarea que le corresponda, y tiene la responsabilidad del proceso (Puente <em>et al</em>, 2006).</p>

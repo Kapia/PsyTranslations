@@ -1,5 +1,5 @@
 ---
-title: Psychology translations (I). Psychology translation as a specialism 
+title: Psychology translations (I). Psychology translation as a specialism
 date: '2022-03-29'
 description: Did you know that psychology is also a specialism within translation? As a science, psychology includes highly specialized content. Keep reading to see the ways it differs from general translation. / ¿Sabías que las traducciones de psicología también son una especialidad de la traducción? Como una ciencia, la psicología tiene contenido muy especializado. Sigue leyendo para ver en qué se diferencia de una traducción general.
 metaSharing: Did you know that psychology translations are also a specialism within translation? Keep reading to see the ways it differs from general translation.

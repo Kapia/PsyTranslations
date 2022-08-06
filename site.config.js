@@ -3,7 +3,8 @@ module.exports = {
    * Site data
    */
   name: ' | PsyTranslations',
-  shortDesc: 'Psychology and healthcare linguistic solutions from English to Spanish Psychology translator',
+  shortDesc:
+    'Psychology and healthcare linguistic solutions from English to Spanish Psychology translator',
   url: 'https://www.psytranslations.com',
   lang: 'en',
   authorName: 'Enrique Quirós',

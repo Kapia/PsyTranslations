@@ -1,7 +1,7 @@
 ---
 title: ¿DSM-5 o DSM-V? Consejos para escribir bien las siglas
 date: '2021-12-23'
-description: ¿Sabes cómo se escriben las siglas de la quinta edición del «Manual diagnóstico y estadístico de los trastornos mentales»? Hay mucha confusión entre «DSM-V» y «DSM-5. / Do you know which is the correct acronym for the «Diagnostic and Statistical Manual of Mental Disorders», Fifth Edition? There’s a lot of confusion between «DSM-V» and «DSM-5», but only one is correct. 
+description: ¿Sabes cómo se escriben las siglas de la quinta edición del «Manual diagnóstico y estadístico de los trastornos mentales»? Hay mucha confusión entre «DSM-V» y «DSM-5. / Do you know which is the correct acronym for the «Diagnostic and Statistical Manual of Mental Disorders», Fifth Edition? There’s a lot of confusion between «DSM-V» and «DSM-5», but only one is correct.
 metaSharing: Do you know which is the correct acronym for the «Diagnostic and Statistical Manual of Mental Disorders», Fifth Edition? ¿«DSM-V» or «DSM-5»?
 picture: ../blog6.jpg
 tags:
@@ -9,6 +9,7 @@ tags:
   - Psychology
   - Ortotipography
 ---
+
 <p><em>**<strong>Note for non-Spanish speakers:</strong> This post is about the correct use of the abbreviation &ldquo;DSM&rdquo; in Spanish. Please note that the official name appears </em><a href="https://www.psychiatry.org/psychiatrists/practice/dsm/feedback-and-questions/frequently-asked-questions"><em>here</em></a><em>, so you can use it and adapt it to your language as needed.</em></p>
 <hr />
 
@@ -45,6 +46,7 @@ tags:
 <ul>
 
 <strong><h2><em>&iquest;DSM </em>en cursiva?</h2></strong>
+
 <p>La <a href="http://aplica.rae.es/orweb/cgi-bin/buscar.cgi"><em>Ortograf&iacute;a de la lengua espa&ntilde;ola</em></a> aclara que los t&iacute;tulos de libros deben ir escritos en cursiva si lo dem&aacute;s est&aacute; en redonda (as&iacute; se llama a las letras &laquo;normales&raquo;, que no est&aacute;n en cursiva ni negrita) y viceversa.</p>
 <p>Asimismo, si las siglas corresponden a un t&iacute;tulo que al escribirse completo lleva cursivas (como es el nombre del manual que nos ocupa), entonces las siglas tambi&eacute;n ir&aacute;n en cursiva.</p>
 <p><strong>As&iacute; que se debe escribir <em>DSM&#8209;5</em>, no </strong>❌&nbsp;<strong>DSM<em>-</em>5 (a menos que el texto que lo rodea est&eacute; en cursiva). </strong></p>

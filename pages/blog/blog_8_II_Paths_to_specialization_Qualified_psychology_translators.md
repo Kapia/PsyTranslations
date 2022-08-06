@@ -1,5 +1,5 @@
 ---
-title: Psychology translations (II). Paths to specialization—Qualified psychology translators 
+title: Psychology translations (II). Paths to specialization—Qualified psychology translators
 date: '2022-04-05'
 description: Just like medical or legal translations, not everyone is up to the task to translate specialized psychology content. What makes a qualified psychology translator? / Como con las traducciones médicas o jurídicas, no todos están en capacidad de traducir contenido especializado de psicología. ¿Qué caracteriza a un traductor especializado en psicología?
 metaSharing: Just like medical or legal translations, not everyone is up to the task to translate very specialized psychology content. What are the characteristics of a specialized psychology translator?
