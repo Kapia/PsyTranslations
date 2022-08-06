@@ -2,6 +2,7 @@
 build
 coverage
 _output
+_site
 
 # Ignore all HTML files:
 *.html
