@@ -1,5 +1,5 @@
 ---
-title: Psychology translations (III). How to specialize through self-learning 
+title: Psychology translations (III). How to specialize through self-learning
 date: '2022-05-04'
 description: How to specialize if you don’t have specific studies in your chosen field? What to do when you have to go down the self-learning route? Keep reading to get a ton of specific psychology translation resources. / ¿Cómo puedes especializarte en un ámbito sin tener estudios específicos en este? ¿Qué puedes hacer si quieres estudiar por tu cuenta? Sigue leyendo y encontrarás muchos recursos para traducción de psicología.
 metaSharing: How to specialize if you don’t have specific studies in your chosen field? What to do when you have to go down the self-learning route? Keep reading to get a ton of specific psychology translation resources.

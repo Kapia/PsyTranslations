@@ -1,5 +1,5 @@
 ---
-title: What is neuropsychology translation (and other questions)? 
+title: What is neuropsychology translation (and other questions)?
 date: '2022-07-31'
 description: Neuropsychology is a subfield of psychology that also produces all kind of documentation that requires translation. Keep reading to know more about translation of neuropsychology tests and other materials. / La neuropsicología es una rama de la psicología en la que también se generan muchos documentos que es necesario traducir. En este artículo, comparto información sobre la traducción de test neuropsicológicos y otro material.
 metaSharing: Neuropsychology is a subfield of psychology that also produces all kind of documentation that requires translation. Keep reading to know more about translation of neuropsychology tests and other materials.

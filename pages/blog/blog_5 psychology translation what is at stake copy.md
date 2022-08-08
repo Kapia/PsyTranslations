@@ -1,7 +1,7 @@
 ---
-title: Psychology translations—What’s in it for you and what’s at stake? 
+title: Psychology translations—What’s in it for you and what’s at stake?
 date: '2021-10-04'
-description: As an academic or scientist, you might be tempted to try a DIY translation. But what are the pitfalls of not using a professional translator? / Si haces parte de la comunidad científica o investigadora, quizá tengas la tentación de traducir tú mismo o pedírselo a un colega, pero ¿cuáles son las desventajas de no usar un traductor profesional? 
+description: As an academic or scientist, you might be tempted to try a DIY translation. But what are the pitfalls of not using a professional translator? / Si haces parte de la comunidad científica o investigadora, quizá tengas la tentación de traducir tú mismo o pedírselo a un colega, pero ¿cuáles son las desventajas de no usar un traductor profesional?
 metaSharing: As an academic or scientist, you might be tempted to try a DIY translation. But what are the pitfalls of not using a professional translator?
 picture: ../blog5.jpg
 tags:

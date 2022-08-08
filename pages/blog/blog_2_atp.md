@@ -56,7 +56,6 @@ stakeholders, and understand the main issues of the industry. After all,    <str
   <i>ATP 2021 Conference banner</i>
 </p>
 
-
 <p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
     <h1><strong>What is the ATP</strong></h1>
 </p>

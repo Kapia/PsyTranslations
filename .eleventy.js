@@ -19,7 +19,7 @@ const PATHS = {
   // => /data
   data: '../data',
   // => /_output
-  output: '_output',
+  // output: '_output',
   // => /[PATH.INPUT]/blog
   blog: 'blog',
   // => /static
@@ -29,18 +29,16 @@ const PATHS = {
 module.exports = function (eleventyConfig) {
   /**
    * Passthrough file copy
-   *
    * @link https://www.11ty.io/docs/copy/
    */
   eleventyConfig.addPassthroughCopy({
     './static': '.',
   })
 
-  eleventyConfig.addPassthroughCopy('css');
+  eleventyConfig.addPassthroughCopy('css')
 
   /**
    * Add filters
-   *
    * @link https://www.11ty.io/docs/filters/
    */
   // human friendly date format
@@ -50,7 +48,6 @@ module.exports = function (eleventyConfig) {
 
   /**
    * Add Transforms
-   *
    * @link https://www.11ty.io/docs/config/#transforms
    */
   if (process.env.ELEVENTY_ENV === 'production') {
@@ -71,8 +68,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pwaPlugin)
 
   /**
-   * Create custom data collections
-   * for blog and feed
+   * Create custom data collections for blog and feed
    * Code from https://github.com/hankchizljaw/hylia
    */
   // Blog posts collection
