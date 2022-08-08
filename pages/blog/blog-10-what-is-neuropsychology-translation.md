@@ -81,7 +81,7 @@ tags:
 <p>Neuropsychology is a highly specialized scientific subfield but also a highly specialized linguistic subfield. If you don&rsquo;t have a linguistic background, you might not know that translators specialize in specific areas (popular fields are medical, legal, technical, and marketing), and <a href="https://psytranslations.com/blog/blog_7_I_Psychology_translation_as_a_specialism/">psychology translation is one of the subfields</a> that requires a specialized approach.</p>
 <p>I hope, by now, you&rsquo;re convinced that neuropsychology is not only a specialization within psychology but also within translation.</p>
 <p>I really believe <strong>this understanding will help in your search for the right partners. Incorporating a neuropsychology translator or specialized linguist into your validation process will help you avoid errors that others might not detect, but that can add up</strong>.</p>
-<p>If you want to know exactly how translators specializing in neuropsychology can help you, don&rsquo;t miss my next post!</p>
+<p>If you want to know exactly how translators specializing in neuropsychology can help you, don&rsquo;t miss <a href="https://psytranslations.com/blog/blog-11-5-ways-a-neuropsychology-translator-can-help-you/">my next post!</a></p>
 <p>
     -----------
 </p>

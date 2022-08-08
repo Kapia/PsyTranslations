@@ -1,5 +1,5 @@
 ---
-title: Psychology translations (I). Psychology translation as a specialism
+title: Psychology translations (I). Psychology translation as a specialism 
 date: '2022-03-29'
 description: Did you know that psychology is also a specialism within translation? As a science, psychology includes highly specialized content. Keep reading to see the ways it differs from general translation. / ¿Sabías que las traducciones de psicología también son una especialidad de la traducción? Como una ciencia, la psicología tiene contenido muy especializado. Sigue leyendo para ver en qué se diferencia de una traducción general.
 metaSharing: Did you know that psychology translations are also a specialism within translation? Keep reading to see the ways it differs from general translation.
@@ -41,8 +41,8 @@ tags:
 </p>
 
 <p>Psychology as a discipline is replete with obscure terminology that makes little sense to the nonprofessional. Similarly, there&rsquo;s a risk of misunderstanding a term that is used in everyday language but that has a specific meaning in psychology; the word &ldquo;punishment&rdquo; is a case in point. As a layman term, it means unwanted (or even painful) consequences and usually refers to the person (&ldquo;his parents punished him&rdquo;). But on the technical side, it&rsquo;s part of the operant conditioning terminology and psychologist use it referring to behavior. It means something very specific: the process in which the consequences that follow a behavior make the behavior less probable to be repeated in the future.</p>
-<p>Some disciplines, like neuropsychology, are part of neurosciences. A translation in this field would require some knowledge of neuroanatomy, neurophysiology, and psychometrics.</p>
-<p>Psychometrics is a branch of psychology that relies heavily on calculations, data analysis, and the use of specialized software. It&rsquo;s also vital for understanding routinely translated instruments in clinical research, like Patient-Reported Outcome Measures (PROMs).</p>
+<p>Some disciplines, like <a href="https://psytranslations.com/blog/blog-10-what-is-neuropsychology-translation">neuropsychology</a>, are part of neurosciences. A translation in this field would require some knowledge of neuroanatomy, neurophysiology, and psychometrics.</p>
+<p>Psychometrics is a branch of psychology that relies heavily on calculations, data analysis, and the use of specialized software. It&rsquo;s also vital for understanding routinely translated instruments in clinical research, like clinical outcome assessments (COAs).</p>
 <p>Another example is social psychology translations, where the translator might need some understanding of current trends in other areas of social sciences (e.g., anthropology, sociology).</p>
 
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
@@ -73,7 +73,7 @@ tags:
 <ul>
 <li><strong>Psychology translations (I). Psychology translation as a specialism <span style="color: #008080;">YOU&rsquo;RE HERE!</span></strong></li>
 <li><strong><a href= "https://psytranslations.com/blog/blog_8_II_Paths_to_specialization_Qualified_psychology_translators/">Psychology translations (II). Paths to specialization: Qualified psychology translators</a></strong></li>
-<li><strong><a href="https://psytranslations.com/blog/blog_9_III_How to specialize through self-learning/">Psychology translations (III). How to specialize through self-learning</strong></li></a>
+<li><strong><a href="https://psytranslations.com/blog/blog_9_III_How_to_specialize_through_self-learning/">Psychology translations (III). How to specialize through self-learning</strong></li></a>
 </ul>
 <p>&nbsp;</p>
 </p>
@@ -81,6 +81,9 @@ tags:
     -----------
 </p>
 <p>
+<p align="left">
+  <img src="../../karol small.jpg " alt="Karol Tapia de Moya psychology translator and medical translator">
+</p>
     <strong>
         <a href="https://psytranslations.com/contact/">Karol Tapia de Moya</a>
     </strong>
@@ -101,3 +104,4 @@ she writes about everything she knows
         </div>
     </div>
 </div>
+

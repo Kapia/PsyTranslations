@@ -243,6 +243,9 @@ now have a better understanding of the whole assessment process and
     -----------
 </p>
 <p>
+<p align="left">
+  <img src="../../karol small.jpg " alt="Karol Tapia de Moya Neuropsychology and psychology translator, medical translator">
+</p>
     <strong>
         <a href="https://psytranslations.com/contact/">Karol Tapia de Moya</a>
     </strong>

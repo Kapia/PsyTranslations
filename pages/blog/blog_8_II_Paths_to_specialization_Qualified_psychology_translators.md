@@ -95,6 +95,9 @@ tags:
     -----------
 </p>
 <p>
+<p align="left">
+  <img src="../../karol small.jpg " alt="Karol Tapia de Moya psychology translator and medical translator">
+</p>
     <strong>
         <a href="https://psytranslations.com/contact/">Karol Tapia de Moya</a>
     </strong>
@@ -115,3 +118,4 @@ she writes about everything she knows
         </div>
     </div>
 </div>
+

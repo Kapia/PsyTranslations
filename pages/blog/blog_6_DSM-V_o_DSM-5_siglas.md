@@ -172,6 +172,9 @@ tags:
     -----------
 </p>
 <p>
+<p align="left">
+  <img src="../../karol small.jpg " alt="Karol Tapia de Moya traductora de psicología y traductora médica">
+</p>
     <strong>
         <a href="https://psytranslations.com/contact/">Karol Tapia de Moya</a>
     </strong>
