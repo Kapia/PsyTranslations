@@ -28,34 +28,59 @@ tags:
 <li><b><a href="#anchor-7">Conclusion</a></b></li>
 
 <p><strong><u>&nbsp;</u></strong></p>
-<p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
-<h1><p><strong>5 ways a translator specializing in neuropsychology can help you</strong></p></h1>
-
 <p align="center">
   <img src="../../blog11-1.jpg " alt="A man looking at 5 doors labeled 1-5">
 </p>
+<p  style="scroll-margin-top: 50px" id="anchor-1"><span></p>
+<h1><p><strong>5 ways a translator specializing in neuropsychology can help you</strong></p></h1>
 <p  style="scroll-margin-top: 50px" id="anchor-2"><span></p>
 <h2>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They know neuropsychology assessment</h2>
+<p align="center">
+  <img src="../../blog11-2.jpg " alt="Delis–Kaplan Executive Function System">
+</p>
+<p align="center">
+  <i> Example of a neuropsychological test: D-KEFS (Source: Pearson Clinical)</i>
+
 <p>Neuropsychology tests use a great variety of complex activities as testing conditions. These include (but go way beyond) ticking A, B, C, or D. They can have the test taker doing puzzles, playing a musical instrument, playing cards, drawing weird shapes, reading colorful words, etc. Additionally, a number of well-known cognitive testing paradigms (e.g., go-no-go, n-back tasks) have served as the basis for further assessment methods.</p>
 <p><strong>A neuropsychology translator understands not only the tools but also the specific challenges related to the assessment setting.</strong> They know that clinicians are always finding the balance between building rapport with the patient and following the standardized process. For this reason, they have to be able to translate instructions and materials that keep administration variability and errors to a minimum.</p>
 <p>The translator specializing in neuropsychology must understand the implicit &ldquo;rules&rdquo; of this specific context, the most-used materials, stimuli, and tasks, and have some fundamentals of psychometrics and knowledge of the rules of item writing.</p>
+
 <p  style="scroll-margin-top: 50px" id="anchor-3"><span></p>
 <h2>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They understand the objective of the assessment and the adaptation process</h2>
+<p align="center">
+  <img src="../../blog11-3.jpg " alt="Diagram of scale development process">
+</p>
+<p align="center">
+  <i> Scale development process: integrative approach (Source: <a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=87941#:~:text=In%20a%20similar%20vein%2C%20Furr,properties%20(see%20relevant%20section).">The Steps of Scale Development and Standardization Process)</a></i>
 <p>They know a test shouldn&rsquo;t just be translated word for word. What is important is that the original meaning is conveyed and the items assess a construct. The translator needs to understand this process and, ideally, be familiar with the measured constructs at some level.</p>
 <p><strong>They know they are involved in just one of the many steps in a much bigger process comprising a large cross-disciplinary team. They know that approaches are different depending on whether the objectives are diagnostic/interventional or clinical research. </strong>If a translator understands the process of test development and adaptation, they won&rsquo;t introduce changes haphazardly: There&rsquo;s an implicit &ldquo;trust&rdquo; in what the team of psychometricians and subject matter experts wanted to convey within each item and the test as a whole.</p>
 <p>With this awareness and respect for the adaptation process, the specialized translator in this field also sees the need to appropriately record every decision each step of the way and appreciates the importance of doing so for regulatory compliance/traceability.</p>
+
 <p  style="scroll-margin-top: 50px" id="anchor-4"><span></p>
 <h2>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They understand the key roles in an assessment context</h2>
+<p align="center">
+  <img src="../../blog11-4.jpg " alt="Person analyzing key points with sticky notes">
+</p>
 <p>Translation is not just about the explicit words or the constructs. There is also the wider context. Everything that&rsquo;s going to be translated needs to be analyzed through the lens of the target culture.</p>
 <p>For example,<strong> a neuropsychology translator who is also knowledgeable about the target culture and language</strong> might explain to you that referring to &ldquo;<a href="https://psytranslations.com/blog/blog_3%20psychometrist%20psychometrician%20/">psychometrists</a>&rdquo; doesn&rsquo;t make sense, as it&rsquo;s not a role that exists in the target culture (which is the case in most Spanish-speaking countries). Or they might explain that mentioning doctoral degrees (PhD, PsyD) as essential criteria is not entirely correct, due to different country requirements on the pathways to becoming a test user/administrator.</p>
+
 <p  style="scroll-margin-top: 50px" id="anchor-5"><span></p>
 <h2>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They realize the issues and challenges when testing the target population</h2>
+<p align="center">
+  <img src="../../blog11-5.jpg " alt="Drawing of a asparagus">
+</p>
+
 <p>Most tests are developed from a Western or developed-country perspective. This poses a problem for test takers from other cultures, who might end up with confusing instructions or less-than-optimal testing situations that influence how they interact with the test administrator (or rater) and the test itself, potentially affecting their performance.</p>
 <p><strong>Even though, on the surface, an English-to-Spanish adaptation of a test might require less drastic changes (e.g., we use the same alphabet), there are many other cultural aspects that might impact test validity.</strong> As the Colombian neuropsychologist <a href="https://aalfredoardila.files.wordpress.com/2013/07/2007-ardila-impact-culture.pdf">Alfredo Ardila has discussed</a>, there are many cultural values that are implicit in a neuropsychological assessment setting, and these can impact cognitive performance: one-to-one relationship, background authority, best performance, isolated environment, special type of communication, speed, internal or subjective issues, use of specific testing elements, and testing strategies.</p>
 <p>One example of how a seemingly simple test has to be adapted for Spanish speakers is the COWAT. In English, this test uses the letters F, A, and S to measure verbal fluency, but it has been adapted to use P, M, and other letters considered more suitable for Spanish as the performance was not consistent across languages.</p>
 <p>Another factor to bear in mind is that<strong> Spanish is spoken in many countries that have their own distinctive cultures, even if they share the same language</strong>. Take the Boston test, for example. This is a traditional naming test that uses images, one of which depicts asparagus. This could be used in Spain, where this is a well-known plant, but not in Colombia, where it wouldn&rsquo;t be recognized by most people (believe me, I&rsquo;ve seen this test being applied to Colombian patients without adaptation). Thus, a test for Colombia and one for Spain might have differences in the stimuli that are presented or even in the way instructions are given.</p>
+
 <p  style="scroll-margin-top: 50px" id="anchor-6"><span></p>
 <h2>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They get what&rsquo;s at stake</h2>
+<p align="center">
+  <img src="../../blog11-6.jpg " alt="Person balancing graphs">
+</p>
+
 <p>Validity is, as the <a href="https://www.apa.org/science/programs/testing/standards">Standards</a> mention, &ldquo;the most fundamental consideration in developing tests and evaluating tests.&rdquo; For this reason, one of the aims of test developers and test users is to decrease the impact of bias that can threaten the validity for specific contexts/uses.</p>
 <p>Just like the example I gave in <a href="https://psytranslations.com/blog/blog-10-what-is-neuropsychology-translation/">my previous post</a>, some of these <strong>errors on administration manuals and scoring sheets can cause confusion</strong>, which can result in test administrators guessing the meaning. <strong>This takes away from the reproducibility and consistency needed in a standardized procedure.</strong></p>
 <p>Some tests don&rsquo;t have practice items and don&rsquo;t allow administrators to repeat instructions, so errors in the instructions given to the test taker can make them fail the trial. Unclear wording can also have an impact on motivation and effort, which again can affect performance.</p>
