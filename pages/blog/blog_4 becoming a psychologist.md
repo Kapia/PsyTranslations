@@ -23,7 +23,7 @@ tags:
 <p><em>Imagine you have a website in the US that offers a matching service: you match psychologists and mental health professionals with clients. In the US, you know what credentials to ask for. Now you start </em><em>offering a similar service in some Spanish-speaking countries. Let&rsquo;s take Spain and Colombia as examples.</em></p>
 <p><em>You&rsquo;ve been working with your team for months now, everything is ready, you already have psychologists on your website, and you&rsquo;re attracting clients to match them with. But you start getting complaints because some psychologists are not acting in an ethical way or clients are dissatisfied. After an investigation, you discover some of the psychologists you recruited for your website are not licensed professionals and are not regulated by a recognized ethical board. You wonder how you could have overlooked this.</em></p>
 <p>With the COVID-19 pandemic, there&rsquo;s been a rise in platforms and websites that find and recommend therapists for online sessions, but if you don&rsquo;t know the basic requirements for a psychologist to see patients, how can you spot when you&rsquo;re letting unqualified and unlicensed practitioners on your website? Recommending shady therapists will damage your image and reputation.</p>
-<p>Equally, there could be fields and options on your English-language platform that don&rsquo;t apply to your new markets. For example, the profession of psychometrician (test administrator) doesn&rsquo;t exist in Spanish-speaking countries (I wrote about this in an <a href="http://localhost:8080/blog/blog_3%20psychometrist%20psychometrician%20/">earlier post</a>). Having these out-of-context options on your app could confuse or deter your end users.</p>
+<p>Equally, there could be fields and options on your English-language platform that don&rsquo;t apply to your new markets. For example, the profession of psychometrician (test administrator) doesn&rsquo;t exist in Spanish-speaking countries (I wrote about this in an <a href="/blog/blog_3%20psychometrist%20psychometrician%20/">earlier post</a>). Having these out-of-context options on your app could confuse or deter your end users.</p>
 <p>In this post, I explain the process of becoming a licensed psychologist in two Spanish-speaking countries: Spain and Colombia. My step-by-step guide will help you decide whether changes should be included in your content localization project.&nbsp;</p>
 <p>I&rsquo;ll also mention specific differences with the process of <a href="https://www.apa.org/gradpsych/2004/01/get-licensed">becoming a licensed psychologist in the United States</a>.</p>
 
@@ -167,4 +167,3 @@ she writes about everything she knows
         </div>
     </div>
 </div>
-
