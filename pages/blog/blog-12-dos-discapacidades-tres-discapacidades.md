@@ -132,7 +132,7 @@ tags:
 
 <p>Como pasa muchas veces, detrás de ciertas palabras hay más de lo que parece. Además, a esto se le suman tradiciones y costumbres distintas en los diferentes contextos y la evolución natural de este tipo de términos. Esto puede dar como resultado que el uso que les damos en nuestro día a día sea muy diferente del uso especializado.</p>
 <p>El término <em>discapacidad</em> es un buen ejemplo de esto, ya que todo lo que se transmite con él como término especializado no coincide con la forma en que lo usan las personas que no dominan la materia específica.</p>
-<p>Hay mucho que decir sobre el tema del lenguaje inclusivo con relación a las personas con discapacidad. En este artículo no quise entrar en esto, sino en el uso específico del término <em>discapacidad</em>, pero si te interesa conocer otras ideas sobre cómo tratar este tema en los medios de comunicación, puedes leer la <a href="https://www.siis.net/documentos/ficha/544014.pdf"><em>Guía de estilo sobre discapacidad para profesionales de los medios de comunicación</em></a>.</p>
+<p>Hay mucho que decir sobre el tema del lenguaje inclusivo con relación a las personas con discapacidad. En este artículo no quise entrar en esto, sino en el uso específico del término <em>discapacidad</em>, pero, si te interesa conocer otras ideas sobre cómo tratar este tema en los medios de comunicación, puedes leer la <a href="https://www.siis.net/documentos/ficha/544014.pdf"><em>Guía de estilo sobre discapacidad para profesionales de los medios de comunicación</em></a>.</p>
 <p>
     -----------
 </p>
