@@ -10,7 +10,7 @@ tags:
   - Translation
   - Disability
 ---
-<p><em>**<strong>Note for non-Spanish speakers:</strong> This post is about the different uses of the term “disability” in English and Spanish. For a summary in English, please check my post in LinkedIn about it.</p></em>
+<p><em>**<strong>Note for non-Spanish speakers:</strong> This post is about the different uses of the term “disability” in English and Spanish. For a summary in English, please check my <a href="https://www.linkedin.com/posts/activity-7077631321988116480-4k6q?utm_source=share&utm_medium=member_desktop">post in LinkedIn about it.</a></p></em>
 <hr />
 
 <p>¿Qué te parecen las siguientes frases? ¿Qué crees que quieren decir?</p>
