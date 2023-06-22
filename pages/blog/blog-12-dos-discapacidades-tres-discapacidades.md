@@ -20,7 +20,7 @@ tags:
 <p>Pero, entonces, ¿qué significa?</p>
 
 <p><strong><u>Contenido</u></strong></p>
-<li><b><a href="#anchor-1">¿Qué se entiende por <em>discapacidad</em></a></b></li>
+<li><b><a href="#anchor-1">¿Qué se entiende por <em>discapacidad?</em></a></b></li>
 <li><b><a href="#anchor-2">Problemas de traducción que plantea</a></b></li>
 <li><b><a href="#anchor-3">Algunas definiciones oficiales en español y en inglés</a></b></li>
 <li><b><a href="#anchor-4">Conclusión</a></b></li>
